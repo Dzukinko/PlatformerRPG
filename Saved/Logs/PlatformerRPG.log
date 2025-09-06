@@ -1083,3 +1083,1354 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.09.06-10.55.47:656][181]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2025.09.06-10.55.53:065][763]LogSlate: External Image Picker: DecompressImage failed
 [2025.09.06-10.55.57:917][328]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.06-10.56.31:356][876]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.09.06-10.56.31:356][876]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.09.06-10.56.33:728][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.09.06-10.56.33:729][135]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Blueprints/Levels/L_test.L_test
+[2025.09.06-10.56.33:729][135]Cmd: MAP LOAD FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.06-10.56.33:769][135]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-10.56.33:769][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-10.56.33:769][135]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.09.06-10.56.33:769][135]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.09.06-10.56.33:777][135]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.06-10.56.33:779][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.09.06-10.56.33:779][135]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-10.56.33:780][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-10.56.33:786][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.09.06-10.56.33:793][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.09.06-10.56.33:798][135]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_test'.
+[2025.09.06-10.56.33:798][135]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.09.06-10.56.33:808][135]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.06-10.56.33:817][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.09.06-10.56.33:838][135]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.06-10.56.33:838][135]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.052ms to complete.
+[2025.09.06-10.56.52:838][972]LogSlate: Window 'Check Out Assets' being destroyed
+[2025.09.06-10.56.52:844][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-10.56.52:858][972]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/BP_Master] ([2] browsable assets)...
+[2025.09.06-10.56.52:863][972]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Master.BP_Master]
+[2025.09.06-10.56.52:863][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Master]
+[2025.09.06-10.56.52:863][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_Master" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Pawns/BP_Master.uasset" SILENT=true
+[2025.09.06-10.56.52:866][972]LogPackageLocalizationCache: Processed 51 localized package path(s) for 1 prioritized culture(s) in 0.003424 seconds
+[2025.09.06-10.56.52:880][972]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_Master
+[2025.09.06-10.56.52:881][972]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_Master010D4B7A4E94927BFBF05AB916EBFB14.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Pawns/BP_Master.uasset'
+[2025.09.06-10.56.52:889][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.406 ms
+[2025.09.06-10.56.52:904][972]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-10.56.52:904][972]LogContentValidation: Enabled validators:
+[2025.09.06-10.56.52:904][972]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-10.56.52:904][972]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-10.56.52:904][972]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-10.56.52:904][972]LogContentValidation: Display: Validating asset /Game/Blueprints/Pawns/BP_Master.BP_Master
+[2025.09.06-10.56.52:904][972]AssetCheck: /Game/Blueprints/Pawns/BP_Master Validating asset
+[2025.09.06-10.56.53:537][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-10.56.53:553][ 44]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Master] ([2] browsable assets)...
+[2025.09.06-10.56.53:553][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Master]
+[2025.09.06-10.56.53:553][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_Master" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Pawns/BP_Master.uasset" SILENT=true
+[2025.09.06-10.56.53:567][ 44]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_Master
+[2025.09.06-10.56.53:568][ 44]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_Master58AF5A234BD0482EB52FF7B2171280DC.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Pawns/BP_Master.uasset'
+[2025.09.06-10.56.53:577][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.981 ms (total: 85.388 ms)
+[2025.09.06-10.56.53:590][ 44]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-10.56.53:591][ 44]LogContentValidation: Enabled validators:
+[2025.09.06-10.56.53:591][ 44]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-10.56.53:591][ 44]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-10.56.53:591][ 44]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-10.56.53:591][ 44]LogContentValidation: Display: Validating asset /Game/Blueprints/Pawns/BP_Master.BP_Master
+[2025.09.06-10.56.53:591][ 44]AssetCheck: /Game/Blueprints/Pawns/BP_Master Validating asset
+[2025.09.06-10.56.56:504][393]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.06-10.56.56:518][393]LogPlayLevel: [PlayLevel] Compiling BP_Master before play...
+[2025.09.06-10.56.56:599][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.09.06-10.56.56:599][393]LogPlayLevel: PlayLevel: Blueprint regeneration took 81 ms (1 blueprints)
+[2025.09.06-10.56.56:602][393]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.09.06-10.56.56:602][393]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.09.06-10.56.56:602][393]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-10.56.56:604][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002048s)
+[2025.09.06-10.56.56:604][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/L_test.L_test to /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test (0.002077s)
+[2025.09.06-10.56.56:612][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.09.06-10.56.56:613][393]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.09.06-10.56.56:613][393]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2025.09.06-10.56.56:640][393]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.09.06-10.56.56:640][393]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-10.56.56:640][393]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-10.56.56:640][393]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-10.56.56:640][393]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-10.56.56:640][393]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-10.56.56:640][393]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-10.56.56:640][393]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-10.56.56:640][393]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-10.56.56:640][393]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-10.56.56:640][393]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-10.56.56:640][393]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-10.56.56:641][393]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-10.56.56:658][393]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G65B (NVIDIA High Definition Audio)
+[2025.09.06-10.56.56:659][393]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-10.56.56:659][393]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-10.56.56:659][393]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-10.56.56:659][393]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.09.06-10.56.56:659][393]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.09.06-10.56.56:660][393]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.09.06-10.56.56:660][393]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.09.06-10.56.56:660][393]LogInit: FAudioDevice initialized with ID 2.
+[2025.09.06-10.56.56:660][393]LogAudio: Display: Audio Device (ID: 2) registered with world 'L_test'.
+[2025.09.06-10.56.56:660][393]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.06-10.56.56:662][393]LogLoad: Game class is 'BP_BasicGM_C'
+[2025.09.06-10.56.56:664][393]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2025.09.06-12.56.56
+[2025.09.06-10.56.56:664][393]LogWorld: Bringing up level for play took: 0.001105
+[2025.09.06-10.56.56:666][393]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.09.06-10.56.56:720][393]PIE: Server logged in
+[2025.09.06-10.56.56:721][393]PIE: Play in editor total start time 0.214 seconds.
+[2025.09.06-10.57.09:511][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-10.57.09:511][917]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-10.57.09:511][917]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-10.57.09:511][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-10.57.09:511][917]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.09.06-10.57.09:511][917]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.09.06-10.57.09:513][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.06-10.57.09:516][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-10.57.09:522][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-10.57.09:522][917]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.06-10.57.09:522][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.09.06-10.57.09:524][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.09.06-10.57.09:528][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.09.06-10.57.09:591][918]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.09.06-10.57.11:150][ 95]Cmd: DELETE
+[2025.09.06-10.57.11:150][ 95]Cmd: ACTOR DELETE
+[2025.09.06-10.57.11:152][ 95]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.06-10.57.11:159][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.09.06-10.57.11:160][ 95]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2025.09.06-10.57.13:109][328]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.06-10.57.13:119][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.06-10.57.13:149][328]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-10.57.13:150][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001592s)
+[2025.09.06-10.57.13:150][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/L_test.L_test to /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test (0.001619s)
+[2025.09.06-10.57.13:160][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.09.06-10.57.13:162][328]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.09.06-10.57.13:162][328]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2025.09.06-10.57.13:190][328]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.09.06-10.57.13:190][328]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-10.57.13:190][328]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-10.57.13:190][328]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-10.57.13:190][328]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-10.57.13:190][328]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-10.57.13:190][328]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-10.57.13:190][328]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-10.57.13:190][328]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-10.57.13:190][328]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-10.57.13:190][328]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-10.57.13:190][328]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-10.57.13:190][328]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-10.57.13:208][328]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G65B (NVIDIA High Definition Audio)
+[2025.09.06-10.57.13:208][328]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-10.57.13:208][328]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-10.57.13:208][328]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-10.57.13:208][328]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.09.06-10.57.13:208][328]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.09.06-10.57.13:209][328]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.09.06-10.57.13:209][328]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.09.06-10.57.13:209][328]LogInit: FAudioDevice initialized with ID 3.
+[2025.09.06-10.57.13:209][328]LogAudio: Display: Audio Device (ID: 3) registered with world 'L_test'.
+[2025.09.06-10.57.13:209][328]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.06-10.57.13:212][328]LogLoad: Game class is 'BP_BasicGM_C'
+[2025.09.06-10.57.13:212][328]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2025.09.06-12.57.13
+[2025.09.06-10.57.13:212][328]LogWorld: Bringing up level for play took: 0.000734
+[2025.09.06-10.57.13:214][328]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.09.06-10.57.13:242][328]PIE: Server logged in
+[2025.09.06-10.57.13:243][328]PIE: Play in editor total start time 0.13 seconds.
+[2025.09.06-10.57.14:561][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-10.57.14:561][481]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-10.57.14:561][481]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-10.57.14:561][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-10.57.14:561][481]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.09.06-10.57.14:561][481]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.09.06-10.57.14:563][481]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.06-10.57.14:565][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-10.57.14:572][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-10.57.14:572][481]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.06-10.57.14:572][481]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.09.06-10.57.14:573][481]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.09.06-10.57.14:577][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.09.06-10.57.14:644][483]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.09.06-10.57.16:849][743]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.09.06-10.57.17:868][864]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.06-10.57.17:877][864]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.06-10.57.17:909][864]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-10.57.17:910][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001268s)
+[2025.09.06-10.57.17:910][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/L_test.L_test to /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test (0.001296s)
+[2025.09.06-10.57.17:916][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.09.06-10.57.17:918][864]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.09.06-10.57.17:918][864]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2025.09.06-10.57.17:945][864]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.09.06-10.57.17:945][864]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-10.57.17:945][864]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-10.57.17:945][864]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-10.57.17:945][864]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-10.57.17:945][864]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-10.57.17:945][864]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-10.57.17:945][864]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-10.57.17:945][864]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-10.57.17:945][864]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-10.57.17:945][864]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-10.57.17:945][864]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-10.57.17:946][864]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-10.57.17:963][864]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G65B (NVIDIA High Definition Audio)
+[2025.09.06-10.57.17:963][864]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-10.57.17:963][864]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-10.57.17:963][864]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-10.57.17:963][864]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.09.06-10.57.17:963][864]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.09.06-10.57.17:965][864]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.09.06-10.57.17:965][864]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.09.06-10.57.17:965][864]LogInit: FAudioDevice initialized with ID 4.
+[2025.09.06-10.57.17:965][864]LogAudio: Display: Audio Device (ID: 4) registered with world 'L_test'.
+[2025.09.06-10.57.17:965][864]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.06-10.57.17:967][864]LogLoad: Game class is 'BP_BasicGM_C'
+[2025.09.06-10.57.17:968][864]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2025.09.06-12.57.17
+[2025.09.06-10.57.17:968][864]LogWorld: Bringing up level for play took: 0.000809
+[2025.09.06-10.57.17:969][864]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.09.06-10.57.17:998][864]PIE: Server logged in
+[2025.09.06-10.57.18:000][864]PIE: Play in editor total start time 0.129 seconds.
+[2025.09.06-10.57.23:581][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-10.57.23:581][525]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-10.57.23:581][525]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-10.57.23:581][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-10.57.23:581][525]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.09.06-10.57.23:581][525]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.09.06-10.57.23:584][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.06-10.57.23:585][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-10.57.23:592][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-10.57.23:592][525]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.06-10.57.23:592][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.09.06-10.57.23:593][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.09.06-10.57.23:597][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.09.06-10.57.23:667][526]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.09.06-10.57.24:662][643]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.06-10.57.24:671][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.06-10.57.24:671][643]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-10.57.24:673][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001269s)
+[2025.09.06-10.57.24:673][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/L_test.L_test to /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test (0.001293s)
+[2025.09.06-10.57.24:679][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.09.06-10.57.24:680][643]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.09.06-10.57.24:681][643]LogPlayLevel: PIE: World Init took: (0.000688s)
+[2025.09.06-10.57.24:708][643]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.09.06-10.57.24:708][643]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-10.57.24:708][643]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-10.57.24:708][643]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-10.57.24:708][643]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-10.57.24:708][643]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-10.57.24:708][643]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-10.57.24:708][643]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-10.57.24:708][643]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-10.57.24:708][643]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-10.57.24:708][643]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-10.57.24:708][643]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-10.57.24:709][643]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-10.57.24:726][643]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G65B (NVIDIA High Definition Audio)
+[2025.09.06-10.57.24:726][643]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-10.57.24:726][643]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-10.57.24:726][643]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-10.57.24:727][643]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.09.06-10.57.24:727][643]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.09.06-10.57.24:728][643]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.09.06-10.57.24:728][643]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.09.06-10.57.24:728][643]LogInit: FAudioDevice initialized with ID 5.
+[2025.09.06-10.57.24:728][643]LogAudio: Display: Audio Device (ID: 5) registered with world 'L_test'.
+[2025.09.06-10.57.24:728][643]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.06-10.57.24:730][643]LogLoad: Game class is 'BP_BasicGM_C'
+[2025.09.06-10.57.24:731][643]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2025.09.06-12.57.24
+[2025.09.06-10.57.24:731][643]LogWorld: Bringing up level for play took: 0.000763
+[2025.09.06-10.57.24:732][643]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.09.06-10.57.24:761][643]PIE: Server logged in
+[2025.09.06-10.57.24:763][643]PIE: Play in editor total start time 0.097 seconds.
+[2025.09.06-10.57.37:682][190]LogDerivedDataCache: C:/Users/jozef/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.06-10.57.50:691][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-10.57.50:691][748]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-10.57.50:691][748]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-10.57.50:691][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-10.57.50:691][748]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.09.06-10.57.50:691][748]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.09.06-10.57.50:693][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.06-10.57.50:696][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-10.57.50:702][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-10.57.50:702][748]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.06-10.57.50:702][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.09.06-10.57.50:704][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.09.06-10.57.50:709][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.09.06-10.57.50:778][749]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.09.06-10.57.53:986][123]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.06-10.57.53:995][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.06-10.57.54:018][123]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-10.57.54:019][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001296s)
+[2025.09.06-10.57.54:019][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/L_test.L_test to /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test (0.001323s)
+[2025.09.06-10.57.54:026][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.09.06-10.57.54:028][123]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.09.06-10.57.54:029][123]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2025.09.06-10.57.54:055][123]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.09.06-10.57.54:055][123]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-10.57.54:055][123]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-10.57.54:055][123]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-10.57.54:055][123]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-10.57.54:055][123]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-10.57.54:055][123]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-10.57.54:055][123]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-10.57.54:055][123]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-10.57.54:055][123]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-10.57.54:055][123]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-10.57.54:055][123]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-10.57.54:057][123]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-10.57.54:074][123]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G65B (NVIDIA High Definition Audio)
+[2025.09.06-10.57.54:074][123]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-10.57.54:074][123]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-10.57.54:074][123]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-10.57.54:074][123]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.09.06-10.57.54:074][123]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.09.06-10.57.54:075][123]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.09.06-10.57.54:075][123]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.09.06-10.57.54:075][123]LogInit: FAudioDevice initialized with ID 6.
+[2025.09.06-10.57.54:075][123]LogAudio: Display: Audio Device (ID: 6) registered with world 'L_test'.
+[2025.09.06-10.57.54:076][123]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.09.06-10.57.54:078][123]LogLoad: Game class is 'BP_BasicGM_C'
+[2025.09.06-10.57.54:079][123]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2025.09.06-12.57.54
+[2025.09.06-10.57.54:079][123]LogWorld: Bringing up level for play took: 0.000859
+[2025.09.06-10.57.54:080][123]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.09.06-10.57.54:109][123]PIE: Server logged in
+[2025.09.06-10.57.54:111][123]PIE: Play in editor total start time 0.121 seconds.
+[2025.09.06-10.58.07:730][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-10.58.07:731][751]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-10.58.07:731][751]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-10.58.07:731][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-10.58.07:731][751]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.09.06-10.58.07:731][751]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.09.06-10.58.07:733][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.06-10.58.07:736][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-10.58.07:743][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-10.58.07:743][751]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.09.06-10.58.07:743][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.09.06-10.58.07:744][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.09.06-10.58.07:749][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.09.06-10.58.07:817][752]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.09.06-10.58.10:417][828]LogSlate: Window 'Check Out Assets' being destroyed
+[2025.09.06-10.58.10:423][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-10.58.10:442][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Levels/L_test" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.06-10.58.10:458][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.09.06-10.58.10:463][828]LogSavePackage: Moving output files for package: /Game/Blueprints/Levels/L_test
+[2025.09.06-10.58.10:463][828]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/L_testAA2236694611E4A749067580C8F269F2.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap'
+[2025.09.06-10.58.10:469][828]LogFileHelpers: Saving map 'L_test' took 0.028
+[2025.09.06-10.58.10:476][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.926 ms (total: 138.314 ms)
+[2025.09.06-10.58.10:492][828]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-10.58.10:492][828]LogContentValidation: Enabled validators:
+[2025.09.06-10.58.10:492][828]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-10.58.10:492][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-10.58.10:492][828]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-10.58.10:492][828]LogContentValidation: Display: Validating asset /Game/Blueprints/Levels/L_test.L_test
+[2025.09.06-10.58.10:492][828]AssetCheck: /Game/Blueprints/Levels/L_test Validating asset
+[2025.09.06-10.58.25:591][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-10.58.25:607][581]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/BP_Master] ([2] browsable assets)...
+[2025.09.06-10.58.25:612][581]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Master.BP_Master]
+[2025.09.06-10.58.25:612][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Master]
+[2025.09.06-10.58.25:612][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_Master" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Pawns/BP_Master.uasset" SILENT=true
+[2025.09.06-10.58.25:627][581]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_Master
+[2025.09.06-10.58.25:627][581]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_Master1492EFAF47811B5FC166D39CE2327880.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Pawns/BP_Master.uasset'
+[2025.09.06-10.58.25:637][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.613 ms (total: 183.928 ms)
+[2025.09.06-10.58.25:660][581]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-10.58.25:660][581]LogContentValidation: Enabled validators:
+[2025.09.06-10.58.25:660][581]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-10.58.25:660][581]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-10.58.25:660][581]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-10.58.25:660][581]LogContentValidation: Display: Validating asset /Game/Blueprints/Pawns/BP_Master.BP_Master
+[2025.09.06-10.58.25:660][581]AssetCheck: /Game/Blueprints/Pawns/BP_Master Validating asset
+[2025.09.06-10.58.29:374][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-10.58.29:392][ 22]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/BP_Master] ([2] browsable assets)...
+[2025.09.06-10.58.29:397][ 22]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Master.BP_Master]
+[2025.09.06-10.58.29:397][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Master]
+[2025.09.06-10.58.29:397][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_Master" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Pawns/BP_Master.uasset" SILENT=true
+[2025.09.06-10.58.29:412][ 22]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_Master
+[2025.09.06-10.58.29:413][ 22]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_MasterB794974D4CE8B29624FE6D8B0DE45A0C.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Pawns/BP_Master.uasset'
+[2025.09.06-10.58.29:421][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.397 ms (total: 230.325 ms)
+[2025.09.06-10.58.29:444][ 22]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-10.58.29:444][ 22]LogContentValidation: Enabled validators:
+[2025.09.06-10.58.29:444][ 22]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-10.58.29:444][ 22]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-10.58.29:444][ 22]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-10.58.29:444][ 22]LogContentValidation: Display: Validating asset /Game/Blueprints/Pawns/BP_Master.BP_Master
+[2025.09.06-10.58.29:444][ 22]AssetCheck: /Game/Blueprints/Pawns/BP_Master Validating asset
+[2025.09.06-10.58.30:747][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.09.06-10.58.35:000][667]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.06-10.58.35:011][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.06-10.58.35:048][667]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-10.58.35:049][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001408s)
+[2025.09.06-10.58.35:049][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/L_test.L_test to /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test (0.001437s)
+[2025.09.06-10.58.35:057][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.09.06-10.58.35:059][667]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.09.06-10.58.35:060][667]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2025.09.06-10.58.35:087][667]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.09.06-10.58.35:087][667]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-10.58.35:087][667]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-10.58.35:087][667]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-10.58.35:087][667]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-10.58.35:087][667]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-10.58.35:087][667]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-10.58.35:087][667]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-10.58.35:087][667]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-10.58.35:087][667]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-10.58.35:087][667]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-10.58.35:087][667]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-10.58.35:088][667]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-10.58.35:106][667]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G65B (NVIDIA High Definition Audio)
+[2025.09.06-10.58.35:106][667]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-10.58.35:106][667]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-10.58.35:106][667]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-10.58.35:106][667]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.09.06-10.58.35:106][667]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.09.06-10.58.35:107][667]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.09.06-10.58.35:107][667]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.09.06-10.58.35:107][667]LogInit: FAudioDevice initialized with ID 7.
+[2025.09.06-10.58.35:107][667]LogAudio: Display: Audio Device (ID: 7) registered with world 'L_test'.
+[2025.09.06-10.58.35:107][667]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.06-10.58.35:110][667]LogLoad: Game class is 'BP_BasicGM_C'
+[2025.09.06-10.58.35:111][667]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2025.09.06-12.58.35
+[2025.09.06-10.58.35:111][667]LogWorld: Bringing up level for play took: 0.000819
+[2025.09.06-10.58.35:113][667]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.09.06-10.58.35:142][667]PIE: Server logged in
+[2025.09.06-10.58.35:143][667]PIE: Play in editor total start time 0.14 seconds.
+[2025.09.06-10.58.42:490][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-10.58.42:490][541]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-10.58.42:490][541]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-10.58.42:490][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-10.58.42:490][541]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.09.06-10.58.42:490][541]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.09.06-10.58.42:493][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.06-10.58.42:494][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-10.58.42:502][541]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.06-10.58.42:502][541]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.06-10.58.42:502][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.09.06-10.58.42:503][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.09.06-10.58.42:506][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-10.58.42:507][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.09.06-10.58.42:577][542]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.09.06-10.58.50:438][470]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-10.58.50:456][470]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/BP_Master] ([2] browsable assets)...
+[2025.09.06-10.58.50:460][470]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Master.BP_Master]
+[2025.09.06-10.58.50:460][470]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Master]
+[2025.09.06-10.58.50:460][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_Master" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Pawns/BP_Master.uasset" SILENT=true
+[2025.09.06-10.58.50:474][470]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_Master
+[2025.09.06-10.58.50:474][470]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_Master7BF31AF24FAEE358BCEF87ABEFB2FA24.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Pawns/BP_Master.uasset'
+[2025.09.06-10.58.50:482][470]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.373 ms (total: 274.698 ms)
+[2025.09.06-10.58.50:501][470]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-10.58.50:501][470]LogContentValidation: Enabled validators:
+[2025.09.06-10.58.50:501][470]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-10.58.50:501][470]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-10.58.50:501][470]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-10.58.50:501][470]LogContentValidation: Display: Validating asset /Game/Blueprints/Pawns/BP_Master.BP_Master
+[2025.09.06-10.58.50:501][470]AssetCheck: /Game/Blueprints/Pawns/BP_Master Validating asset
+[2025.09.06-10.58.51:431][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.09.06-10.58.52:476][673]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.06-10.58.52:485][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.06-10.58.52:518][673]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-10.58.52:519][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001383s)
+[2025.09.06-10.58.52:519][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/L_test.L_test to /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test (0.001410s)
+[2025.09.06-10.58.52:525][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.09.06-10.58.52:527][673]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.09.06-10.58.52:528][673]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2025.09.06-10.58.52:555][673]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.09.06-10.58.52:555][673]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-10.58.52:555][673]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-10.58.52:555][673]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-10.58.52:555][673]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-10.58.52:555][673]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-10.58.52:555][673]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-10.58.52:555][673]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-10.58.52:555][673]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-10.58.52:555][673]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-10.58.52:555][673]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-10.58.52:555][673]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-10.58.52:556][673]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-10.58.52:573][673]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G65B (NVIDIA High Definition Audio)
+[2025.09.06-10.58.52:573][673]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-10.58.52:573][673]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-10.58.52:573][673]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-10.58.52:573][673]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.09.06-10.58.52:573][673]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.09.06-10.58.52:574][673]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.09.06-10.58.52:574][673]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.09.06-10.58.52:574][673]LogInit: FAudioDevice initialized with ID 8.
+[2025.09.06-10.58.52:574][673]LogAudio: Display: Audio Device (ID: 8) registered with world 'L_test'.
+[2025.09.06-10.58.52:574][673]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.09.06-10.58.52:577][673]LogLoad: Game class is 'BP_BasicGM_C'
+[2025.09.06-10.58.52:578][673]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2025.09.06-12.58.52
+[2025.09.06-10.58.52:578][673]LogWorld: Bringing up level for play took: 0.000968
+[2025.09.06-10.58.52:579][673]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.09.06-10.58.52:608][673]PIE: Server logged in
+[2025.09.06-10.58.52:609][673]PIE: Play in editor total start time 0.13 seconds.
+[2025.09.06-10.58.58:700][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-10.58.58:700][397]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-10.58.58:700][397]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-10.58.58:700][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-10.58.58:700][397]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.09.06-10.58.58:700][397]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.09.06-10.58.58:702][397]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.06-10.58.58:705][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-10.58.58:713][397]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.06-10.58.58:713][397]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.09.06-10.58.58:713][397]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.09.06-10.58.58:714][397]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.09.06-10.58.58:717][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-10.58.58:718][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.09.06-10.58.58:809][398]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.09.06-10.58.59:415][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-10.58.59:436][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Levels/L_test" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.06-10.58.59:451][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.09.06-10.58.59:456][468]LogSavePackage: Moving output files for package: /Game/Blueprints/Levels/L_test
+[2025.09.06-10.58.59:457][468]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/L_test4DB7CAC243124044C2FCE18CCB9DF9B9.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap'
+[2025.09.06-10.58.59:461][468]LogFileHelpers: Saving map 'L_test' took 0.027
+[2025.09.06-10.58.59:468][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.912 ms (total: 327.611 ms)
+[2025.09.06-10.58.59:484][468]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-10.58.59:484][468]LogContentValidation: Enabled validators:
+[2025.09.06-10.58.59:484][468]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-10.58.59:484][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-10.58.59:484][468]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-10.58.59:484][468]LogContentValidation: Display: Validating asset /Game/Blueprints/Levels/L_test.L_test
+[2025.09.06-10.58.59:484][468]AssetCheck: /Game/Blueprints/Levels/L_test Validating asset
+[2025.09.06-10.59.00:798][625]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.06-10.59.00:807][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.06-10.59.00:838][625]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-10.59.00:839][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001369s)
+[2025.09.06-10.59.00:839][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/L_test.L_test to /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test (0.001402s)
+[2025.09.06-10.59.00:846][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.09.06-10.59.00:847][625]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.09.06-10.59.00:848][625]LogPlayLevel: PIE: World Init took: (0.000694s)
+[2025.09.06-10.59.00:875][625]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.09.06-10.59.00:875][625]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-10.59.00:875][625]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-10.59.00:875][625]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-10.59.00:875][625]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-10.59.00:875][625]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-10.59.00:875][625]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-10.59.00:875][625]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-10.59.00:875][625]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-10.59.00:875][625]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-10.59.00:875][625]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-10.59.00:875][625]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-10.59.00:876][625]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-10.59.00:893][625]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G65B (NVIDIA High Definition Audio)
+[2025.09.06-10.59.00:893][625]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-10.59.00:894][625]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-10.59.00:894][625]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-10.59.00:894][625]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.09.06-10.59.00:894][625]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.09.06-10.59.00:896][625]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.09.06-10.59.00:896][625]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.09.06-10.59.00:896][625]LogInit: FAudioDevice initialized with ID 9.
+[2025.09.06-10.59.00:896][625]LogAudio: Display: Audio Device (ID: 9) registered with world 'L_test'.
+[2025.09.06-10.59.00:896][625]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.09.06-10.59.00:898][625]LogLoad: Game class is 'BP_BasicGM_C'
+[2025.09.06-10.59.00:898][625]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2025.09.06-12.59.00
+[2025.09.06-10.59.00:899][625]LogWorld: Bringing up level for play took: 0.000876
+[2025.09.06-10.59.00:900][625]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.09.06-10.59.00:929][625]PIE: Server logged in
+[2025.09.06-10.59.00:930][625]PIE: Play in editor total start time 0.129 seconds.
+[2025.09.06-10.59.06:720][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-10.59.06:720][313]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-10.59.06:720][313]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-10.59.06:721][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-10.59.06:721][313]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.09.06-10.59.06:721][313]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.09.06-10.59.06:723][313]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.06-10.59.06:725][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-10.59.06:734][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-10.59.06:734][313]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.09.06-10.59.06:734][313]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.09.06-10.59.06:735][313]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.09.06-10.59.06:739][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.09.06-10.59.06:810][314]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.09.06-10.59.08:700][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-10.59.08:720][537]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/BP_Master] ([2] browsable assets)...
+[2025.09.06-10.59.08:724][537]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Master.BP_Master]
+[2025.09.06-10.59.08:724][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Master]
+[2025.09.06-10.59.08:724][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_Master" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Pawns/BP_Master.uasset" SILENT=true
+[2025.09.06-10.59.08:738][537]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_Master
+[2025.09.06-10.59.08:738][537]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_Master7861555F4D95F89B0A3CD2B199CBA2EE.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Pawns/BP_Master.uasset'
+[2025.09.06-10.59.08:765][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.586 ms (total: 393.197 ms)
+[2025.09.06-10.59.08:787][537]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-10.59.08:787][537]LogContentValidation: Enabled validators:
+[2025.09.06-10.59.08:787][537]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-10.59.08:787][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-10.59.08:787][537]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-10.59.08:787][537]LogContentValidation: Display: Validating asset /Game/Blueprints/Pawns/BP_Master.BP_Master
+[2025.09.06-10.59.08:787][537]AssetCheck: /Game/Blueprints/Pawns/BP_Master Validating asset
+[2025.09.06-10.59.09:562][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.09.06-10.59.10:521][710]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.06-10.59.10:531][710]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.06-10.59.10:568][710]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-10.59.10:569][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001262s)
+[2025.09.06-10.59.10:569][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/L_test.L_test to /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test (0.001290s)
+[2025.09.06-10.59.10:576][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.09.06-10.59.10:577][710]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.09.06-10.59.10:578][710]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2025.09.06-10.59.10:605][710]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.09.06-10.59.10:605][710]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-10.59.10:605][710]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-10.59.10:605][710]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-10.59.10:605][710]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-10.59.10:605][710]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-10.59.10:605][710]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-10.59.10:605][710]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-10.59.10:605][710]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-10.59.10:605][710]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-10.59.10:605][710]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-10.59.10:605][710]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-10.59.10:606][710]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-10.59.10:623][710]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G65B (NVIDIA High Definition Audio)
+[2025.09.06-10.59.10:623][710]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-10.59.10:623][710]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-10.59.10:623][710]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-10.59.10:624][710]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.09.06-10.59.10:624][710]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.09.06-10.59.10:625][710]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.09.06-10.59.10:625][710]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.09.06-10.59.10:625][710]LogInit: FAudioDevice initialized with ID 10.
+[2025.09.06-10.59.10:625][710]LogAudio: Display: Audio Device (ID: 10) registered with world 'L_test'.
+[2025.09.06-10.59.10:625][710]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.09.06-10.59.10:629][710]LogLoad: Game class is 'BP_BasicGM_C'
+[2025.09.06-10.59.10:629][710]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2025.09.06-12.59.10
+[2025.09.06-10.59.10:630][710]LogWorld: Bringing up level for play took: 0.000949
+[2025.09.06-10.59.10:631][710]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.09.06-10.59.10:660][710]PIE: Server logged in
+[2025.09.06-10.59.10:662][710]PIE: Play in editor total start time 0.138 seconds.
+[2025.09.06-10.59.16:490][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-10.59.16:490][403]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-10.59.16:490][403]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-10.59.16:490][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-10.59.16:490][403]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.09.06-10.59.16:490][403]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.09.06-10.59.16:493][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.06-10.59.16:494][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-10.59.16:502][403]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.06-10.59.16:502][403]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.09.06-10.59.16:502][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.09.06-10.59.16:503][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.09.06-10.59.16:506][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-10.59.16:507][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.09.06-10.59.16:578][404]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.09.06-10.59.37:094][851]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.06-10.59.37:100][851]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.06-10.59.37:109][852]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.06-10.59.40:374][243]LogContentBrowser: Attempting asset rename: NewFolder -> Enviromnent
+[2025.09.06-10.59.40:374][243]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.06-10.59.41:851][420]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-10.59.41:870][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Levels/L_test" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.06-10.59.41:888][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.09.06-10.59.41:893][420]LogSavePackage: Moving output files for package: /Game/Blueprints/Levels/L_test
+[2025.09.06-10.59.41:894][420]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/L_test5CE33A354414ED95B5FB2E9692DAD018.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap'
+[2025.09.06-10.59.41:899][420]LogFileHelpers: Saving map 'L_test' took 0.029
+[2025.09.06-10.59.41:905][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.705 ms (total: 447.903 ms)
+[2025.09.06-10.59.41:919][420]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-10.59.41:920][420]LogContentValidation: Enabled validators:
+[2025.09.06-10.59.41:920][420]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-10.59.41:920][420]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-10.59.41:920][420]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-10.59.41:920][420]LogContentValidation: Display: Validating asset /Game/Blueprints/Levels/L_test.L_test
+[2025.09.06-10.59.41:920][420]AssetCheck: /Game/Blueprints/Levels/L_test Validating asset
+[2025.09.06-10.59.45:128][684]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.09.06-10.59.45:139][684]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.09.06-10.59.45:143][684]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.09.06-10.59.45:161][686]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.09.06-10.59.49:833][244]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_DamageAZone
+[2025.09.06-10.59.49:839][244]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.09.06-10.59.54:367][784]LogContentBrowser: Attempting asset rename: BP_DamageAZone -> BP_DamageZone
+[2025.09.06-10.59.54:392][784]LogMetaData: Removing '/Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Enviromnent/BP_DamageAZone.PackageMetaData'
+[2025.09.06-10.59.54:392][784]LogMetaData: Removing '/Game/Blueprints/Enviromnent/BP_DamageZone.SKEL_BP_DamageZone_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Enviromnent/BP_DamageAZone.PackageMetaData'
+[2025.09.06-10.59.54:392][784]LogMetaData: Removing '/Game/Blueprints/Enviromnent/BP_DamageZone.SKEL_BP_DamageZone_C' ref from Metadata '/Game/Blueprints/Enviromnent/BP_DamageAZone.PackageMetaData'
+[2025.09.06-10.59.54:392][784]LogMetaData: Removing '/Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone_C' ref from Metadata '/Game/Blueprints/Enviromnent/BP_DamageAZone.PackageMetaData'
+[2025.09.06-10.59.54:392][784]LogMetaData: Removing '/Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Enviromnent/BP_DamageAZone.PackageMetaData'
+[2025.09.06-10.59.54:392][784]LogMetaData: Removing '/Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Enviromnent/BP_DamageAZone.PackageMetaData'
+[2025.09.06-10.59.54:392][784]LogMetaData: Removing '/Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Enviromnent/BP_DamageAZone.PackageMetaData'
+[2025.09.06-10.59.54:394][784]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-10.59.54:409][784]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enviromnent/BP_DamageZone] ([2] browsable assets)...
+[2025.09.06-10.59.54:409][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enviromnent/BP_DamageZone]
+[2025.09.06-10.59.54:409][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enviromnent/BP_DamageZone" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset" SILENT=true
+[2025.09.06-10.59.54:411][784]LogSavePackage: Moving output files for package: /Game/Blueprints/Enviromnent/BP_DamageZone
+[2025.09.06-10.59.54:411][784]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_DamageZone580E0E234E0D13D7E5B89EB4E22F3D60.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset'
+[2025.09.06-10.59.54:420][784]LogFileHelpers: InternalPromptForCheckoutAndSave took 26.300 ms (total: 474.203 ms)
+[2025.09.06-10.59.54:430][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.09.06-10.59.54:438][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.09.06-10.59.54:444][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.09.06-10.59.54:457][784]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-10.59.54:457][784]LogContentValidation: Enabled validators:
+[2025.09.06-10.59.54:457][784]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-10.59.54:457][784]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-10.59.54:457][784]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-10.59.54:457][784]LogContentValidation: Display: Validating asset /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone
+[2025.09.06-10.59.54:457][784]AssetCheck: /Game/Blueprints/Enviromnent/BP_DamageZone Validating asset
+[2025.09.06-10.59.54:867][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-10.59.54:878][832]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enviromnent/BP_DamageZone] ([2] browsable assets)...
+[2025.09.06-10.59.54:879][832]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enviromnent/BP_DamageZone]
+[2025.09.06-10.59.54:879][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enviromnent/BP_DamageZone" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset" SILENT=true
+[2025.09.06-10.59.54:881][832]LogSavePackage: Moving output files for package: /Game/Blueprints/Enviromnent/BP_DamageZone
+[2025.09.06-10.59.54:881][832]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_DamageZoneB9F2B25F4256077E87ACC4AC3E9030A0.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset'
+[2025.09.06-10.59.54:889][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 21.666 ms (total: 495.870 ms)
+[2025.09.06-10.59.54:907][832]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-10.59.54:907][832]LogContentValidation: Enabled validators:
+[2025.09.06-10.59.54:907][832]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-10.59.54:907][832]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-10.59.54:907][832]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-10.59.54:907][832]LogContentValidation: Display: Validating asset /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone
+[2025.09.06-10.59.54:907][832]AssetCheck: /Game/Blueprints/Enviromnent/BP_DamageZone Validating asset
+[2025.09.06-10.59.55:588][913]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone
+[2025.09.06-11.00.14:791][786]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-11.00.14:811][786]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enviromnent/BP_DamageZone] ([2] browsable assets)...
+[2025.09.06-11.00.14:811][786]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enviromnent/BP_DamageZone]
+[2025.09.06-11.00.14:811][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enviromnent/BP_DamageZone" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset" SILENT=true
+[2025.09.06-11.00.14:813][786]LogSavePackage: Moving output files for package: /Game/Blueprints/Enviromnent/BP_DamageZone
+[2025.09.06-11.00.14:813][786]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_DamageZone38FACE4F4437EBBA6ADC639F4CB88B62.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset'
+[2025.09.06-11.00.14:821][786]LogFileHelpers: InternalPromptForCheckoutAndSave took 29.929 ms (total: 525.800 ms)
+[2025.09.06-11.00.14:840][786]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-11.00.14:840][786]LogContentValidation: Enabled validators:
+[2025.09.06-11.00.14:840][786]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-11.00.14:840][786]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-11.00.14:840][786]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-11.00.14:840][786]LogContentValidation: Display: Validating asset /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone
+[2025.09.06-11.00.14:841][786]AssetCheck: /Game/Blueprints/Enviromnent/BP_DamageZone Validating asset
+[2025.09.06-11.00.18:439][167]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-11.00.18:453][167]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enviromnent/BP_DamageZone] ([2] browsable assets)...
+[2025.09.06-11.00.18:453][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enviromnent/BP_DamageZone]
+[2025.09.06-11.00.18:453][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enviromnent/BP_DamageZone" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset" SILENT=true
+[2025.09.06-11.00.18:455][167]LogSavePackage: Moving output files for package: /Game/Blueprints/Enviromnent/BP_DamageZone
+[2025.09.06-11.00.18:455][167]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_DamageZoneDE11265B457A60580E41408EB2189308.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset'
+[2025.09.06-11.00.18:463][167]LogFileHelpers: InternalPromptForCheckoutAndSave took 23.185 ms (total: 548.985 ms)
+[2025.09.06-11.00.18:482][167]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-11.00.18:482][167]LogContentValidation: Enabled validators:
+[2025.09.06-11.00.18:482][167]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-11.00.18:482][167]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-11.00.18:482][167]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-11.00.18:482][167]LogContentValidation: Display: Validating asset /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone
+[2025.09.06-11.00.18:482][167]AssetCheck: /Game/Blueprints/Enviromnent/BP_DamageZone Validating asset
+[2025.09.06-11.00.19:756][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.09.06-11.00.19:893][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.09.06-11.01.12:237][139]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-11.01.12:250][139]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enviromnent/BP_DamageZone] ([2] browsable assets)...
+[2025.09.06-11.01.12:250][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enviromnent/BP_DamageZone]
+[2025.09.06-11.01.12:250][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enviromnent/BP_DamageZone" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset" SILENT=true
+[2025.09.06-11.01.12:253][139]LogSavePackage: Moving output files for package: /Game/Blueprints/Enviromnent/BP_DamageZone
+[2025.09.06-11.01.12:253][139]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_DamageZone1A988DD049BB41BC8E58E9B7DBD330DA.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset'
+[2025.09.06-11.01.12:261][139]LogFileHelpers: InternalPromptForCheckoutAndSave took 24.192 ms (total: 573.177 ms)
+[2025.09.06-11.01.12:284][139]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-11.01.12:284][139]LogContentValidation: Enabled validators:
+[2025.09.06-11.01.12:284][139]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-11.01.12:284][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-11.01.12:284][139]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-11.01.12:284][139]LogContentValidation: Display: Validating asset /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone
+[2025.09.06-11.01.12:284][139]AssetCheck: /Game/Blueprints/Enviromnent/BP_DamageZone Validating asset
+[2025.09.06-11.01.13:555][284]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-11.01.13:572][284]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enviromnent/BP_DamageZone] ([2] browsable assets)...
+[2025.09.06-11.01.13:572][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enviromnent/BP_DamageZone]
+[2025.09.06-11.01.13:572][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enviromnent/BP_DamageZone" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset" SILENT=true
+[2025.09.06-11.01.13:574][284]LogSavePackage: Moving output files for package: /Game/Blueprints/Enviromnent/BP_DamageZone
+[2025.09.06-11.01.13:574][284]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_DamageZone21221E5045BD77D0405565A131E291AF.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset'
+[2025.09.06-11.01.13:581][284]LogFileHelpers: InternalPromptForCheckoutAndSave took 27.370 ms (total: 600.548 ms)
+[2025.09.06-11.01.13:597][284]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-11.01.13:597][284]LogContentValidation: Enabled validators:
+[2025.09.06-11.01.13:597][284]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-11.01.13:597][284]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-11.01.13:597][284]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-11.01.13:597][284]LogContentValidation: Display: Validating asset /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone
+[2025.09.06-11.01.13:597][284]AssetCheck: /Game/Blueprints/Enviromnent/BP_DamageZone Validating asset
+[2025.09.06-11.01.14:481][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.09.06-11.01.14:626][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.09.06-11.01.14:942][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.09.06-11.01.16:505][612]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-11.01.16:522][612]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enviromnent/BP_DamageZone] ([2] browsable assets)...
+[2025.09.06-11.01.16:522][612]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enviromnent/BP_DamageZone]
+[2025.09.06-11.01.16:522][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enviromnent/BP_DamageZone" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset" SILENT=true
+[2025.09.06-11.01.16:525][612]LogSavePackage: Moving output files for package: /Game/Blueprints/Enviromnent/BP_DamageZone
+[2025.09.06-11.01.16:525][612]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_DamageZoneE05CA5C34167D1CB9B4AADA0AC383B35.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset'
+[2025.09.06-11.01.16:532][612]LogFileHelpers: InternalPromptForCheckoutAndSave took 26.635 ms (total: 627.183 ms)
+[2025.09.06-11.01.16:552][612]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-11.01.16:552][612]LogContentValidation: Enabled validators:
+[2025.09.06-11.01.16:552][612]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-11.01.16:552][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-11.01.16:552][612]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-11.01.16:552][612]LogContentValidation: Display: Validating asset /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone
+[2025.09.06-11.01.16:552][612]AssetCheck: /Game/Blueprints/Enviromnent/BP_DamageZone Validating asset
+[2025.09.06-11.01.16:667][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-11.01.16:681][624]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enviromnent/BP_DamageZone] ([2] browsable assets)...
+[2025.09.06-11.01.16:681][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enviromnent/BP_DamageZone]
+[2025.09.06-11.01.16:681][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enviromnent/BP_DamageZone" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset" SILENT=true
+[2025.09.06-11.01.16:683][624]LogSavePackage: Moving output files for package: /Game/Blueprints/Enviromnent/BP_DamageZone
+[2025.09.06-11.01.16:683][624]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_DamageZoneF981D2CC4FAFAB7770CE7AB725891E7E.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset'
+[2025.09.06-11.01.16:690][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 22.595 ms (total: 649.779 ms)
+[2025.09.06-11.01.16:705][624]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-11.01.16:705][624]LogContentValidation: Enabled validators:
+[2025.09.06-11.01.16:705][624]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-11.01.16:705][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-11.01.16:705][624]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-11.01.16:705][624]LogContentValidation: Display: Validating asset /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone
+[2025.09.06-11.01.16:705][624]AssetCheck: /Game/Blueprints/Enviromnent/BP_DamageZone Validating asset
+[2025.09.06-11.01.16:801][634]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-11.01.16:813][634]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enviromnent/BP_DamageZone] ([2] browsable assets)...
+[2025.09.06-11.01.16:814][634]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enviromnent/BP_DamageZone]
+[2025.09.06-11.01.16:814][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enviromnent/BP_DamageZone" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset" SILENT=true
+[2025.09.06-11.01.16:816][634]LogSavePackage: Moving output files for package: /Game/Blueprints/Enviromnent/BP_DamageZone
+[2025.09.06-11.01.16:817][634]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_DamageZone903424F04E89DDE963737288355BA0D4.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset'
+[2025.09.06-11.01.16:822][634]LogFileHelpers: InternalPromptForCheckoutAndSave took 21.455 ms (total: 671.234 ms)
+[2025.09.06-11.01.16:842][634]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-11.01.16:842][634]LogContentValidation: Enabled validators:
+[2025.09.06-11.01.16:842][634]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-11.01.16:842][634]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-11.01.16:842][634]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-11.01.16:842][634]LogContentValidation: Display: Validating asset /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone
+[2025.09.06-11.01.16:842][634]AssetCheck: /Game/Blueprints/Enviromnent/BP_DamageZone Validating asset
+[2025.09.06-11.01.19:023][890]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-11.01.19:039][890]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enviromnent/BP_DamageZone] ([2] browsable assets)...
+[2025.09.06-11.01.19:039][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enviromnent/BP_DamageZone]
+[2025.09.06-11.01.19:039][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enviromnent/BP_DamageZone" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset" SILENT=true
+[2025.09.06-11.01.19:042][890]LogSavePackage: Moving output files for package: /Game/Blueprints/Enviromnent/BP_DamageZone
+[2025.09.06-11.01.19:042][890]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_DamageZone9D44A4764EC809A92754EA9FFFB69D69.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset'
+[2025.09.06-11.01.19:049][890]LogFileHelpers: InternalPromptForCheckoutAndSave took 25.981 ms (total: 697.216 ms)
+[2025.09.06-11.01.19:068][890]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-11.01.19:068][890]LogContentValidation: Enabled validators:
+[2025.09.06-11.01.19:068][890]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-11.01.19:068][890]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-11.01.19:068][890]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-11.01.19:068][890]LogContentValidation: Display: Validating asset /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone
+[2025.09.06-11.01.19:068][890]AssetCheck: /Game/Blueprints/Enviromnent/BP_DamageZone Validating asset
+[2025.09.06-11.01.20:464][ 47]LogSlate: Window 'BP_DamageZone' being destroyed
+[2025.09.06-11.01.21:410][156]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone_C
+[2025.09.06-11.01.21:410][156]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone_C
+[2025.09.06-11.01.21:411][156]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone as actor: BP_DamageZone_C /Game/Blueprints/Levels/L_test.L_test:PersistentLevel.BP_DamageZone_C_0
+[2025.09.06-11.01.21:412][156]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone as actor: BP_DamageZone_C /Game/Blueprints/Levels/L_test.L_test:PersistentLevel.BP_DamageZone_C_0
+[2025.09.06-11.01.21:414][156]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.09.06-11.01.22:696][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.09.06-11.01.22:711][283]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.09.06-11.01.22:715][283]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone_C
+[2025.09.06-11.01.22:715][283]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone_C
+[2025.09.06-11.01.22:716][283]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone as actor: BP_DamageZone_C /Game/Blueprints/Levels/L_test.L_test:PersistentLevel.BP_DamageZone_C_1
+[2025.09.06-11.01.22:716][283]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone as actor: BP_DamageZone_C /Game/Blueprints/Levels/L_test.L_test:PersistentLevel.BP_DamageZone_C_1
+[2025.09.06-11.01.25:352][586]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.06-11.01.25:364][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.06-11.01.25:386][586]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-11.01.25:387][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001419s)
+[2025.09.06-11.01.25:388][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/L_test.L_test to /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test (0.001445s)
+[2025.09.06-11.01.25:395][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.09.06-11.01.25:396][586]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.09.06-11.01.25:397][586]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2025.09.06-11.01.25:426][586]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.09.06-11.01.25:426][586]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-11.01.25:426][586]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-11.01.25:426][586]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-11.01.25:426][586]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-11.01.25:426][586]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-11.01.25:426][586]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-11.01.25:426][586]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-11.01.25:426][586]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-11.01.25:426][586]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-11.01.25:426][586]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-11.01.25:426][586]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-11.01.25:428][586]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-11.01.25:444][586]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G65B (NVIDIA High Definition Audio)
+[2025.09.06-11.01.25:444][586]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-11.01.25:444][586]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-11.01.25:444][586]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-11.01.25:446][586]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.09.06-11.01.25:446][586]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.09.06-11.01.25:447][586]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.09.06-11.01.25:447][586]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.09.06-11.01.25:447][586]LogInit: FAudioDevice initialized with ID 11.
+[2025.09.06-11.01.25:447][586]LogAudio: Display: Audio Device (ID: 11) registered with world 'L_test'.
+[2025.09.06-11.01.25:447][586]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.09.06-11.01.25:449][586]LogLoad: Game class is 'BP_BasicGM_C'
+[2025.09.06-11.01.25:451][586]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2025.09.06-13.01.25
+[2025.09.06-11.01.25:451][586]LogWorld: Bringing up level for play took: 0.000928
+[2025.09.06-11.01.25:453][586]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.09.06-11.01.25:483][586]PIE: Server logged in
+[2025.09.06-11.01.25:484][586]PIE: Play in editor total start time 0.128 seconds.
+[2025.09.06-11.01.26:623][719]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_ApplyDamage', from offset 10
+[2025.09.06-11.01.26:623][719]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone_C:ReceiveActorBeginOverlap
+	Function /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone_C:ExecuteUbergraph_BP_DamageZone
+
+[2025.09.06-11.01.33:580][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-11.01.33:580][839]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-11.01.33:580][839]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-11.01.33:581][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-11.01.33:581][839]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.09.06-11.01.33:581][839]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.09.06-11.01.33:585][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.06-11.01.33:586][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-11.01.33:592][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-11.01.33:593][839]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.09.06-11.01.33:593][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.09.06-11.01.33:595][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.09.06-11.01.33:597][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.09.06-11.01.33:660][840]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.09.06-11.01.35:430][ 52]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone without an associated node. The blueprint breakpoint has been removed
+[2025.09.06-11.01.35:430][ 52]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone without an associated node. The blueprint breakpoint has been removed
+[2025.09.06-11.01.37:504][298]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.06-11.01.37:514][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.06-11.01.37:547][298]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-11.01.37:548][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001307s)
+[2025.09.06-11.01.37:548][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/L_test.L_test to /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test (0.001336s)
+[2025.09.06-11.01.37:554][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.09.06-11.01.37:555][298]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.09.06-11.01.37:557][298]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2025.09.06-11.01.37:586][298]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.09.06-11.01.37:586][298]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-11.01.37:586][298]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-11.01.37:586][298]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-11.01.37:586][298]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-11.01.37:586][298]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-11.01.37:586][298]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-11.01.37:586][298]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-11.01.37:586][298]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-11.01.37:586][298]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-11.01.37:586][298]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-11.01.37:586][298]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-11.01.37:587][298]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-11.01.37:604][298]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G65B (NVIDIA High Definition Audio)
+[2025.09.06-11.01.37:604][298]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-11.01.37:604][298]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-11.01.37:604][298]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-11.01.37:604][298]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.09.06-11.01.37:604][298]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.09.06-11.01.37:605][298]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.09.06-11.01.37:605][298]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.09.06-11.01.37:605][298]LogInit: FAudioDevice initialized with ID 12.
+[2025.09.06-11.01.37:605][298]LogAudio: Display: Audio Device (ID: 12) registered with world 'L_test'.
+[2025.09.06-11.01.37:605][298]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.09.06-11.01.37:607][298]LogLoad: Game class is 'BP_BasicGM_C'
+[2025.09.06-11.01.37:608][298]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2025.09.06-13.01.37
+[2025.09.06-11.01.37:608][298]LogWorld: Bringing up level for play took: 0.000829
+[2025.09.06-11.01.37:610][298]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.09.06-11.01.37:641][298]PIE: Server logged in
+[2025.09.06-11.01.37:642][298]PIE: Play in editor total start time 0.134 seconds.
+[2025.09.06-11.01.43:278][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-11.01.43:278][968]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-11.01.43:279][968]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-11.01.43:279][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-11.01.43:279][968]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.09.06-11.01.43:279][968]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.09.06-11.01.43:282][968]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.06-11.01.43:284][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-11.01.43:291][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-11.01.43:291][968]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.09.06-11.01.43:291][968]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.09.06-11.01.43:293][968]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.09.06-11.01.43:296][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.09.06-11.01.43:365][969]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.09.06-11.02.03:773][396]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-11.02.03:791][396]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enviromnent/BP_DamageZone] ([2] browsable assets)...
+[2025.09.06-11.02.03:791][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enviromnent/BP_DamageZone]
+[2025.09.06-11.02.03:791][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enviromnent/BP_DamageZone" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset" SILENT=true
+[2025.09.06-11.02.03:794][396]LogSavePackage: Moving output files for package: /Game/Blueprints/Enviromnent/BP_DamageZone
+[2025.09.06-11.02.03:794][396]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_DamageZoneADB3D6F548A920CFE2ED66B63BC7AEE2.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset'
+[2025.09.06-11.02.03:801][396]LogFileHelpers: InternalPromptForCheckoutAndSave took 27.537 ms (total: 724.753 ms)
+[2025.09.06-11.02.03:820][396]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-11.02.03:820][396]LogContentValidation: Enabled validators:
+[2025.09.06-11.02.03:820][396]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-11.02.03:820][396]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-11.02.03:820][396]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-11.02.03:820][396]LogContentValidation: Display: Validating asset /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone
+[2025.09.06-11.02.03:820][396]AssetCheck: /Game/Blueprints/Enviromnent/BP_DamageZone Validating asset
+[2025.09.06-11.02.05:744][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-11.02.05:763][626]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enviromnent/BP_DamageZone] ([2] browsable assets)...
+[2025.09.06-11.02.05:763][626]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enviromnent/BP_DamageZone]
+[2025.09.06-11.02.05:763][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enviromnent/BP_DamageZone" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset" SILENT=true
+[2025.09.06-11.02.05:766][626]LogSavePackage: Moving output files for package: /Game/Blueprints/Enviromnent/BP_DamageZone
+[2025.09.06-11.02.05:767][626]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_DamageZone7FB874BB4DDFF29ED481DDB6DA98068E.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset'
+[2025.09.06-11.02.05:774][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 29.747 ms (total: 754.500 ms)
+[2025.09.06-11.02.05:794][626]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-11.02.05:794][626]LogContentValidation: Enabled validators:
+[2025.09.06-11.02.05:794][626]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-11.02.05:794][626]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-11.02.05:794][626]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-11.02.05:794][626]LogContentValidation: Display: Validating asset /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone
+[2025.09.06-11.02.05:794][626]AssetCheck: /Game/Blueprints/Enviromnent/BP_DamageZone Validating asset
+[2025.09.06-11.02.06:197][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.09.06-11.02.07:371][807]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.06-11.02.07:380][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.06-11.02.07:380][807]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-11.02.07:381][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001319s)
+[2025.09.06-11.02.07:381][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/L_test.L_test to /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test (0.001343s)
+[2025.09.06-11.02.07:389][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.09.06-11.02.07:391][807]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.09.06-11.02.07:391][807]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2025.09.06-11.02.07:421][807]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.09.06-11.02.07:421][807]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-11.02.07:421][807]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-11.02.07:421][807]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-11.02.07:421][807]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-11.02.07:421][807]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-11.02.07:421][807]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-11.02.07:421][807]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-11.02.07:421][807]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-11.02.07:421][807]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-11.02.07:421][807]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-11.02.07:421][807]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-11.02.07:422][807]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-11.02.07:439][807]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G65B (NVIDIA High Definition Audio)
+[2025.09.06-11.02.07:439][807]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-11.02.07:439][807]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-11.02.07:439][807]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-11.02.07:440][807]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.09.06-11.02.07:440][807]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.09.06-11.02.07:441][807]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.09.06-11.02.07:441][807]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.09.06-11.02.07:441][807]LogInit: FAudioDevice initialized with ID 13.
+[2025.09.06-11.02.07:441][807]LogAudio: Display: Audio Device (ID: 13) registered with world 'L_test'.
+[2025.09.06-11.02.07:441][807]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.09.06-11.02.07:443][807]LogLoad: Game class is 'BP_BasicGM_C'
+[2025.09.06-11.02.07:443][807]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2025.09.06-13.02.07
+[2025.09.06-11.02.07:444][807]LogWorld: Bringing up level for play took: 0.000837
+[2025.09.06-11.02.07:445][807]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.09.06-11.02.07:476][807]PIE: Server logged in
+[2025.09.06-11.02.07:478][807]PIE: Play in editor total start time 0.103 seconds.
+[2025.09.06-11.02.11:772][319]LogBlueprintUserMessages: [BP_InteractTest_C_1] Interact
+[2025.09.06-11.02.12:447][400]LogBlueprintUserMessages: [BP_InteractTest_C_1] Interact
+[2025.09.06-11.02.12:604][419]LogBlueprintUserMessages: [BP_InteractTest_C_1] Interact
+[2025.09.06-11.02.14:522][649]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:522][649]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:522][649]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:522][649]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:530][650]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:530][650]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:530][650]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:530][650]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:538][651]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:538][651]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:538][651]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:538][651]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:546][652]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:546][652]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:546][652]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:546][652]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:554][653]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:554][653]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:554][653]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:554][653]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:563][654]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:563][654]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:563][654]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:563][654]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:571][655]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:571][655]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:571][655]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:571][655]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:579][656]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:579][656]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:579][656]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:579][656]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:588][657]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:588][657]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:588][657]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:588][657]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:596][658]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:596][658]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:596][658]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:596][658]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:604][659]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:604][659]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:604][659]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:604][659]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:613][660]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:613][660]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:613][660]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:613][660]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:621][661]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:621][661]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:621][661]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:621][661]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:629][662]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:629][662]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:629][662]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:629][662]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:705][671]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:705][671]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:705][671]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:705][671]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:713][672]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:713][672]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:713][672]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:713][672]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:722][673]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:722][673]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:722][673]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:722][673]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:730][674]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:730][674]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:730][674]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:730][674]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:737][675]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:737][675]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:737][675]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:737][675]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:746][676]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:746][676]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:746][676]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:746][676]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:754][677]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:754][677]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:754][677]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:755][677]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:763][678]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:763][678]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:763][678]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:763][678]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:771][679]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:771][679]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:771][679]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:771][679]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:779][680]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:780][680]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:780][680]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:780][680]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:788][681]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:788][681]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:788][681]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:788][681]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:797][682]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:797][682]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:797][682]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:797][682]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:804][683]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:804][683]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:804][683]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:804][683]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:813][684]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:813][684]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:813][684]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:813][684]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:821][685]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:821][685]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:821][685]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:821][685]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:830][686]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:830][686]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:830][686]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:830][686]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:904][695]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:904][695]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:904][695]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:904][695]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:913][696]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:913][696]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:913][696]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:913][696]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:921][697]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:922][697]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:922][697]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:922][697]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:930][698]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:930][698]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:930][698]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:930][698]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:938][699]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:938][699]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:938][699]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:938][699]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:946][700]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:947][700]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:947][700]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:947][700]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:954][701]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:954][701]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:955][701]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:955][701]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:963][702]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:963][702]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:963][702]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:963][702]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.14:971][703]LogBlueprintUserMessages: [BP_Enemy_C_1] 10.0
+[2025.09.06-11.02.14:971][703]LogScript: Warning: Script Msg: GetMyPlayerIndex - Invalid player state
+[2025.09.06-11.02.14:971][703]LogScript: Warning: Script Msg called by: BP_Master_C /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test:PersistentLevel.BP_Master_C_0
+[2025.09.06-11.02.14:971][703]LogBlueprintUserMessages: [BP_Master_C_0] 
+[2025.09.06-11.02.20:099][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-11.02.20:099][312]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-11.02.20:099][312]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-11.02.20:099][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-11.02.20:099][312]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.09.06-11.02.20:099][312]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.09.06-11.02.20:103][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.06-11.02.20:105][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-11.02.20:113][312]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.06-11.02.20:113][312]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.09.06-11.02.20:113][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.09.06-11.02.20:114][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.09.06-11.02.20:117][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-11.02.20:118][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.09.06-11.02.20:187][313]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.09.06-11.02.30:756][573]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Interfaces/BPI_Interact.BPI_Interact
+[2025.09.06-11.02.33:560][901]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-11.02.33:560][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-11.02.33:578][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.09.06-11.03.43:554][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-11.03.43:573][545]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enviromnent/BP_DamageZone] ([2] browsable assets)...
+[2025.09.06-11.03.43:573][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enviromnent/BP_DamageZone]
+[2025.09.06-11.03.43:573][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enviromnent/BP_DamageZone" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset" SILENT=true
+[2025.09.06-11.03.43:576][545]LogSavePackage: Moving output files for package: /Game/Blueprints/Enviromnent/BP_DamageZone
+[2025.09.06-11.03.43:576][545]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_DamageZone70FD3DF542C004CB931624A9E5D8322D.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset'
+[2025.09.06-11.03.43:584][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 29.390 ms (total: 783.891 ms)
+[2025.09.06-11.03.43:603][545]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-11.03.43:603][545]LogContentValidation: Enabled validators:
+[2025.09.06-11.03.43:603][545]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-11.03.43:603][545]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-11.03.43:603][545]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-11.03.43:603][545]LogContentValidation: Display: Validating asset /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone
+[2025.09.06-11.03.43:603][545]AssetCheck: /Game/Blueprints/Enviromnent/BP_DamageZone Validating asset
+[2025.09.06-11.03.44:511][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.09.06-11.03.44:649][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.09.06-11.03.44:968][692]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-11.03.44:982][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enviromnent/BP_DamageZone] ([2] browsable assets)...
+[2025.09.06-11.03.44:982][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enviromnent/BP_DamageZone]
+[2025.09.06-11.03.44:982][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enviromnent/BP_DamageZone" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset" SILENT=true
+[2025.09.06-11.03.44:985][692]LogSavePackage: Moving output files for package: /Game/Blueprints/Enviromnent/BP_DamageZone
+[2025.09.06-11.03.44:985][692]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_DamageZone28F1EFE7423F8EB3129175B66D8305DA.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset'
+[2025.09.06-11.03.44:991][692]LogFileHelpers: InternalPromptForCheckoutAndSave took 23.183 ms (total: 807.074 ms)
+[2025.09.06-11.03.45:010][692]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-11.03.45:011][692]LogContentValidation: Enabled validators:
+[2025.09.06-11.03.45:011][692]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-11.03.45:011][692]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-11.03.45:011][692]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-11.03.45:011][692]LogContentValidation: Display: Validating asset /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone
+[2025.09.06-11.03.45:011][692]AssetCheck: /Game/Blueprints/Enviromnent/BP_DamageZone Validating asset
+[2025.09.06-11.03.45:116][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-11.03.45:132][704]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enviromnent/BP_DamageZone] ([2] browsable assets)...
+[2025.09.06-11.03.45:132][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enviromnent/BP_DamageZone]
+[2025.09.06-11.03.45:132][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enviromnent/BP_DamageZone" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset" SILENT=true
+[2025.09.06-11.03.45:135][704]LogSavePackage: Moving output files for package: /Game/Blueprints/Enviromnent/BP_DamageZone
+[2025.09.06-11.03.45:136][704]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_DamageZone010718ED45DAFD4DC22BFEB6343498BA.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset'
+[2025.09.06-11.03.45:142][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 26.837 ms (total: 833.911 ms)
+[2025.09.06-11.03.45:160][704]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-11.03.45:160][704]LogContentValidation: Enabled validators:
+[2025.09.06-11.03.45:160][704]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-11.03.45:160][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-11.03.45:160][704]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-11.03.45:160][704]LogContentValidation: Display: Validating asset /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone
+[2025.09.06-11.03.45:160][704]AssetCheck: /Game/Blueprints/Enviromnent/BP_DamageZone Validating asset
+[2025.09.06-11.03.45:966][799]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.06-11.03.45:977][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.06-11.03.45:977][799]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-11.03.45:978][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001394s)
+[2025.09.06-11.03.45:978][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/L_test.L_test to /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test (0.001418s)
+[2025.09.06-11.03.45:985][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.09.06-11.03.45:987][799]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.09.06-11.03.45:987][799]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2025.09.06-11.03.46:016][799]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.09.06-11.03.46:016][799]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-11.03.46:016][799]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-11.03.46:016][799]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-11.03.46:016][799]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-11.03.46:016][799]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-11.03.46:016][799]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-11.03.46:016][799]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-11.03.46:016][799]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-11.03.46:016][799]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-11.03.46:016][799]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-11.03.46:016][799]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-11.03.46:018][799]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-11.03.46:033][799]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G65B (NVIDIA High Definition Audio)
+[2025.09.06-11.03.46:033][799]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-11.03.46:033][799]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-11.03.46:033][799]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-11.03.46:035][799]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.09.06-11.03.46:035][799]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.09.06-11.03.46:036][799]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.09.06-11.03.46:036][799]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.09.06-11.03.46:036][799]LogInit: FAudioDevice initialized with ID 14.
+[2025.09.06-11.03.46:036][799]LogAudio: Display: Audio Device (ID: 14) registered with world 'L_test'.
+[2025.09.06-11.03.46:036][799]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.09.06-11.03.46:038][799]LogLoad: Game class is 'BP_BasicGM_C'
+[2025.09.06-11.03.46:039][799]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2025.09.06-13.03.46
+[2025.09.06-11.03.46:039][799]LogWorld: Bringing up level for play took: 0.000807
+[2025.09.06-11.03.46:041][799]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.09.06-11.03.46:070][799]PIE: Server logged in
+[2025.09.06-11.03.46:071][799]PIE: Play in editor total start time 0.103 seconds.
+[2025.09.06-11.03.47:106][920]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_Event', from offset 0
+[2025.09.06-11.03.47:106][920]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Pawns/BP_Master.BP_Master_C:ReceiveAnyDamage
+
+[2025.09.06-11.03.50:245][920]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Blueprints/Pawns/BP_Master.BP_Master without an associated node. The blueprint breakpoint has been removed
+[2025.09.06-11.03.50:245][920]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Blueprints/Pawns/BP_Master.BP_Master without an associated node. The blueprint breakpoint has been removed
+[2025.09.06-11.03.52:343][920]LogBlueprintUserMessages: [BP_Master_C_0] 10.0
+[2025.09.06-11.03.52:379][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-11.03.52:379][920]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-11.03.52:379][920]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-11.03.52:379][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-11.03.52:379][920]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.09.06-11.03.52:379][920]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.09.06-11.03.52:383][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.06-11.03.52:387][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-11.03.52:393][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-11.03.52:393][920]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.09.06-11.03.52:393][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.09.06-11.03.52:395][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.09.06-11.03.52:399][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.09.06-11.03.52:462][921]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.09.06-11.03.53:293][ 16]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.06-11.03.53:303][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.06-11.03.53:303][ 16]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-11.03.53:304][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001278s)
+[2025.09.06-11.03.53:304][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/L_test.L_test to /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test (0.001300s)
+[2025.09.06-11.03.53:311][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.09.06-11.03.53:313][ 16]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.09.06-11.03.53:313][ 16]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2025.09.06-11.03.53:342][ 16]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.09.06-11.03.53:342][ 16]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-11.03.53:342][ 16]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-11.03.53:342][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-11.03.53:342][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-11.03.53:342][ 16]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-11.03.53:342][ 16]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-11.03.53:342][ 16]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-11.03.53:342][ 16]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-11.03.53:342][ 16]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-11.03.53:342][ 16]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-11.03.53:342][ 16]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-11.03.53:343][ 16]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-11.03.53:359][ 16]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G65B (NVIDIA High Definition Audio)
+[2025.09.06-11.03.53:359][ 16]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-11.03.53:359][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-11.03.53:359][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-11.03.53:361][ 16]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.09.06-11.03.53:361][ 16]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.09.06-11.03.53:362][ 16]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.09.06-11.03.53:362][ 16]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.09.06-11.03.53:362][ 16]LogInit: FAudioDevice initialized with ID 15.
+[2025.09.06-11.03.53:362][ 16]LogAudio: Display: Audio Device (ID: 15) registered with world 'L_test'.
+[2025.09.06-11.03.53:362][ 16]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.09.06-11.03.53:364][ 16]LogLoad: Game class is 'BP_BasicGM_C'
+[2025.09.06-11.03.53:365][ 16]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2025.09.06-13.03.53
+[2025.09.06-11.03.53:365][ 16]LogWorld: Bringing up level for play took: 0.001068
+[2025.09.06-11.03.53:366][ 16]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.09.06-11.03.53:397][ 16]PIE: Server logged in
+[2025.09.06-11.03.53:398][ 16]PIE: Play in editor total start time 0.101 seconds.
+[2025.09.06-11.03.54:408][135]LogBlueprintUserMessages: [BP_Master_C_0] 10.0
+[2025.09.06-11.03.55:917][316]LogBlueprintUserMessages: [BP_Master_C_0] 10.0
+[2025.09.06-11.03.56:992][445]LogBlueprintUserMessages: [BP_Master_C_0] 10.0
+[2025.09.06-11.04.00:209][831]LogBlueprintUserMessages: [BP_Master_C_0] 10.0
+[2025.09.06-11.04.00:768][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-11.04.00:768][894]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-11.04.00:768][894]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-11.04.00:768][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-11.04.00:768][894]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.09.06-11.04.00:768][894]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.09.06-11.04.00:772][894]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.06-11.04.00:776][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-11.04.00:785][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-11.04.00:785][894]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.09.06-11.04.00:785][894]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.09.06-11.04.00:786][894]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.09.06-11.04.00:790][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.09.06-11.04.00:856][895]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.09.06-11.04.01:313][947]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-11.04.01:330][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Levels/L_test" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.06-11.04.01:346][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.09.06-11.04.01:351][947]LogSavePackage: Moving output files for package: /Game/Blueprints/Levels/L_test
+[2025.09.06-11.04.01:351][947]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/L_test4944D68A428FD8D22141B9AD0B7558A9.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap'
+[2025.09.06-11.04.01:356][947]LogFileHelpers: Saving map 'L_test' took 0.027
+[2025.09.06-11.04.01:364][947]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.505 ms (total: 884.417 ms)
+[2025.09.06-11.04.01:380][947]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-11.04.01:380][947]LogContentValidation: Enabled validators:
+[2025.09.06-11.04.01:380][947]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-11.04.01:380][947]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-11.04.01:380][947]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-11.04.01:380][947]LogContentValidation: Display: Validating asset /Game/Blueprints/Levels/L_test.L_test
+[2025.09.06-11.04.01:380][947]AssetCheck: /Game/Blueprints/Levels/L_test Validating asset
