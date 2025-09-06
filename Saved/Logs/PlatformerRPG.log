@@ -1122,3 +1122,1714 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.09.06-12.07.48:776][823]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.06-12.07.48:776][823]LogContentValidation: Display: Validating asset /Game/Icons/health-normal.health-normal
 [2025.09.06-12.07.48:776][823]AssetCheck: /Game/Icons/health-normal Validating asset
+[2025.09.06-12.08.22:172][186]LogDerivedDataCache: C:/Users/jozef/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.06-12.10.27:386][166]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.06-12.10.27:393][166]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.06-12.10.27:399][167]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.06-12.10.30:080][488]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2025.09.06-12.10.30:080][488]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.06-12.10.33:904][912]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2025.09.06-12.10.38:348][308]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.09.06-12.10.38:353][308]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.09.06-12.10.38:357][308]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.09.06-12.10.38:382][310]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.09.06-12.10.53:961][600]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2025.09.06-12.10.53:966][600]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.09.06-12.10.58:105][ 71]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Health
+[2025.09.06-12.10.58:125][ 71]LogMetaData: Removing '/Game/Blueprints/UI/WBP_Health.SKEL_WBP_Health_C' ref from Metadata '/Game/Blueprints/UI/NewWidgetBlueprint.PackageMetaData'
+[2025.09.06-12.10.58:125][ 71]LogMetaData: Removing '/Game/Blueprints/UI/WBP_Health.WBP_Health_C' ref from Metadata '/Game/Blueprints/UI/NewWidgetBlueprint.PackageMetaData'
+[2025.09.06-12.10.58:125][ 71]LogMetaData: Removing '/Game/Blueprints/UI/WBP_Health.WBP_Health:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/UI/NewWidgetBlueprint.PackageMetaData'
+[2025.09.06-12.10.58:125][ 71]LogMetaData: Removing '/Game/Blueprints/UI/WBP_Health.WBP_Health:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/UI/NewWidgetBlueprint.PackageMetaData'
+[2025.09.06-12.10.58:126][ 71]LogMetaData: Removing '/Game/Blueprints/UI/WBP_Health.WBP_Health:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/UI/NewWidgetBlueprint.PackageMetaData'
+[2025.09.06-12.10.58:126][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.10.58:146][ 71]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Health] ([2] browsable assets)...
+[2025.09.06-12.10.58:148][ 71]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Health.WBP_Health]
+[2025.09.06-12.10.58:148][ 71]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Health]
+[2025.09.06-12.10.58:148][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Health" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Health.uasset" SILENT=true
+[2025.09.06-12.10.58:151][ 71]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Health
+[2025.09.06-12.10.58:151][ 71]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_HealthE14D25DE444DD87ED0A5F0A7125ECE79.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Health.uasset'
+[2025.09.06-12.10.58:161][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.449 ms (total: 116.390 ms)
+[2025.09.06-12.10.58:166][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.09.06-12.10.58:168][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.09.06-12.10.58:170][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.13ms
+[2025.09.06-12.10.58:190][ 71]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.10.58:190][ 71]LogContentValidation: Enabled validators:
+[2025.09.06-12.10.58:190][ 71]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.10.58:190][ 71]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.10.58:190][ 71]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.10.58:190][ 71]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Health.WBP_Health
+[2025.09.06-12.10.58:190][ 71]AssetCheck: /Game/Blueprints/UI/WBP_Health Validating asset
+[2025.09.06-12.10.58:631][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.10.58:645][121]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/WBP_Health] ([2] browsable assets)...
+[2025.09.06-12.10.58:645][121]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Health]
+[2025.09.06-12.10.58:645][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Health" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Health.uasset" SILENT=true
+[2025.09.06-12.10.58:646][121]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Health
+[2025.09.06-12.10.58:647][121]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_HealthF8E6B55840B9EE0E7569DFAA27E96EA3.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Health.uasset'
+[2025.09.06-12.10.58:653][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 22.970 ms (total: 139.360 ms)
+[2025.09.06-12.10.58:674][121]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.10.58:674][121]LogContentValidation: Enabled validators:
+[2025.09.06-12.10.58:674][121]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.10.58:674][121]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.10.58:674][121]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.10.58:674][121]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Health.WBP_Health
+[2025.09.06-12.10.58:674][121]AssetCheck: /Game/Blueprints/UI/WBP_Health Validating asset
+[2025.09.06-12.33.29:642][435]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Icons/health-normal.health-normal
+[2025.09.06-12.33.29:736][435]LogTexture: Display: Building textures: /Game/Icons/health-normal.health-normal (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 44.395823 MB), EncodeSpeed: Final
+[2025.09.06-12.33.34:951][ 36]LogTexture: Display: Building textures: /Game/Icons/health-normal.health-normal (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 44.395823 MB), EncodeSpeed: Final
+[2025.09.06-12.33.39:693][589]LogTexture: Display: Building textures: /Game/Icons/health-normal.health-normal (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 44.395823 MB), EncodeSpeed: Final
+[2025.09.06-12.33.47:673][529]LogTexture: Display: Building textures: /Game/Icons/health-normal.health-normal (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 44.395823 MB), EncodeSpeed: Final
+[2025.09.06-12.33.53:456][  4]LogSlate: Window 'Check Out Assets' being destroyed
+[2025.09.06-12.33.58:258][337]LogSlate: Window 'Check Out Assets' being destroyed
+[2025.09.06-12.33.58:264][337]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.33.58:277][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Icons/health-normal] ([1] browsable assets)...
+[2025.09.06-12.33.58:280][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Icons/health-normal.health-normal]
+[2025.09.06-12.33.58:280][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/Icons/health-normal]
+[2025.09.06-12.33.58:280][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/health-normal" FILE="../../../../../Git/PlatformerRPG/Content/Icons/health-normal.uasset" SILENT=true
+[2025.09.06-12.33.58:281][337]LogSavePackage: Moving output files for package: /Game/Icons/health-normal
+[2025.09.06-12.33.58:282][337]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/health-normal33F496C1465D1EAB6B93EB859757AC16.tmp' to '../../../../../Git/PlatformerRPG/Content/Icons/health-normal.uasset'
+[2025.09.06-12.33.58:287][337]LogFileHelpers: InternalPromptForCheckoutAndSave took 23.934 ms (total: 163.294 ms)
+[2025.09.06-12.33.58:302][337]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.33.58:302][337]LogContentValidation: Enabled validators:
+[2025.09.06-12.33.58:302][337]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.33.58:302][337]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.33.58:302][337]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.33.58:302][337]LogContentValidation: Display: Validating asset /Game/Icons/health-normal.health-normal
+[2025.09.06-12.33.58:302][337]AssetCheck: /Game/Icons/health-normal Validating asset
+[2025.09.06-12.33.59:094][425]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.33.59:112][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Icons/health-normal] ([1] browsable assets)...
+[2025.09.06-12.33.59:112][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Icons/health-normal]
+[2025.09.06-12.33.59:112][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/health-normal" FILE="../../../../../Git/PlatformerRPG/Content/Icons/health-normal.uasset" SILENT=true
+[2025.09.06-12.33.59:113][425]LogSavePackage: Moving output files for package: /Game/Icons/health-normal
+[2025.09.06-12.33.59:114][425]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/health-normal00D762F746F8FFE5D801EEB74206AFBC.tmp' to '../../../../../Git/PlatformerRPG/Content/Icons/health-normal.uasset'
+[2025.09.06-12.33.59:121][425]LogFileHelpers: InternalPromptForCheckoutAndSave took 25.552 ms (total: 188.846 ms)
+[2025.09.06-12.33.59:142][425]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.33.59:142][425]LogContentValidation: Enabled validators:
+[2025.09.06-12.33.59:142][425]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.33.59:142][425]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.33.59:142][425]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.33.59:142][425]LogContentValidation: Display: Validating asset /Game/Icons/health-normal.health-normal
+[2025.09.06-12.33.59:142][425]AssetCheck: /Game/Icons/health-normal Validating asset
+[2025.09.06-12.33.59:730][493]LogSlate: Window 'health-normal' being destroyed
+[2025.09.06-12.34.00:844][623]LogContentBrowser: Deferred new asset file creation: health-normal1
+[2025.09.06-12.34.00:848][623]LogContentBrowser: Creating deferred item: health-normal1
+[2025.09.06-12.34.00:858][624]LogContentBrowser: Renaming the item being created (Deferred Item: health-normal1).
+[2025.09.06-12.34.08:289][516]LogContentBrowser: Attempting asset rename: health-normal1 -> health-None
+[2025.09.06-12.34.08:291][516]LogContentBrowser: End creating deferred item health-normal1
+[2025.09.06-12.34.08:966][597]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Icons/health-None.health-None
+[2025.09.06-12.34.12:762][ 29]LogTexture: Display: Building textures: /Game/Icons/health-None.health-None (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 44.395823 MB), EncodeSpeed: Final
+[2025.09.06-12.34.14:973][286]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.34.14:989][286]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Icons/health-None] ([1] browsable assets)...
+[2025.09.06-12.34.14:990][286]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Icons/health-None.health-None]
+[2025.09.06-12.34.14:990][286]OBJ SavePackage: Finished generating thumbnails for package [/Game/Icons/health-None]
+[2025.09.06-12.34.14:990][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/health-None" FILE="../../../../../Git/PlatformerRPG/Content/Icons/health-None.uasset" SILENT=true
+[2025.09.06-12.34.14:991][286]LogSavePackage: Moving output files for package: /Game/Icons/health-None
+[2025.09.06-12.34.14:991][286]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/health-None84C460084A97E088573F1A9471AE1A47.tmp' to '../../../../../Git/PlatformerRPG/Content/Icons/health-None.uasset'
+[2025.09.06-12.34.15:004][286]LogFileHelpers: InternalPromptForCheckoutAndSave took 30.894 ms (total: 219.741 ms)
+[2025.09.06-12.34.15:022][286]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.34.15:022][286]LogContentValidation: Enabled validators:
+[2025.09.06-12.34.15:022][286]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.34.15:022][286]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.34.15:022][286]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.34.15:022][286]LogContentValidation: Display: Validating asset /Game/Icons/health-None.health-None
+[2025.09.06-12.34.15:022][286]AssetCheck: /Game/Icons/health-None Validating asset
+[2025.09.06-12.34.16:030][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.34.16:051][402]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Icons/health-None] ([1] browsable assets)...
+[2025.09.06-12.34.16:051][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/Icons/health-None]
+[2025.09.06-12.34.16:051][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/health-None" FILE="../../../../../Git/PlatformerRPG/Content/Icons/health-None.uasset" SILENT=true
+[2025.09.06-12.34.16:052][402]LogSavePackage: Moving output files for package: /Game/Icons/health-None
+[2025.09.06-12.34.16:052][402]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/health-None6F867D8A451E13421F5F139268EE8703.tmp' to '../../../../../Git/PlatformerRPG/Content/Icons/health-None.uasset'
+[2025.09.06-12.34.16:060][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 29.421 ms (total: 249.162 ms)
+[2025.09.06-12.34.16:075][402]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.34.16:075][402]LogContentValidation: Enabled validators:
+[2025.09.06-12.34.16:075][402]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.34.16:075][402]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.34.16:075][402]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.34.16:075][402]LogContentValidation: Display: Validating asset /Game/Icons/health-None.health-None
+[2025.09.06-12.34.16:075][402]AssetCheck: /Game/Icons/health-None Validating asset
+[2025.09.06-12.34.16:153][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.34.16:172][410]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Icons/health-None] ([1] browsable assets)...
+[2025.09.06-12.34.16:172][410]OBJ SavePackage: Finished generating thumbnails for package [/Game/Icons/health-None]
+[2025.09.06-12.34.16:172][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/health-None" FILE="../../../../../Git/PlatformerRPG/Content/Icons/health-None.uasset" SILENT=true
+[2025.09.06-12.34.16:173][410]LogSavePackage: Moving output files for package: /Game/Icons/health-None
+[2025.09.06-12.34.16:173][410]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/health-None5D9B81244A933870A24F01B83BCBCEE9.tmp' to '../../../../../Git/PlatformerRPG/Content/Icons/health-None.uasset'
+[2025.09.06-12.34.16:181][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 27.229 ms (total: 276.392 ms)
+[2025.09.06-12.34.16:202][410]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.34.16:202][410]LogContentValidation: Enabled validators:
+[2025.09.06-12.34.16:202][410]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.34.16:202][410]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.34.16:202][410]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.34.16:202][410]LogContentValidation: Display: Validating asset /Game/Icons/health-None.health-None
+[2025.09.06-12.34.16:202][410]AssetCheck: /Game/Icons/health-None Validating asset
+[2025.09.06-12.34.16:689][465]LogSlate: Window 'health-None' being destroyed
+[2025.09.06-12.34.33:489][845]LogContentBrowser: Attempting asset rename: WBP_Health -> WBP_Cross
+[2025.09.06-12.34.33:509][845]LogMetaData: Removing '/Game/Blueprints/UI/WBP_Cross.WBP_Cross_C' ref from Metadata '/Game/Blueprints/UI/WBP_Health.PackageMetaData'
+[2025.09.06-12.34.33:509][845]LogMetaData: Removing '/Game/Blueprints/UI/WBP_Cross.SKEL_WBP_Cross_C' ref from Metadata '/Game/Blueprints/UI/WBP_Health.PackageMetaData'
+[2025.09.06-12.34.33:509][845]LogMetaData: Removing '/Game/Blueprints/UI/WBP_Cross.WBP_Cross:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/UI/WBP_Health.PackageMetaData'
+[2025.09.06-12.34.33:509][845]LogMetaData: Removing '/Game/Blueprints/UI/WBP_Cross.WBP_Cross:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/UI/WBP_Health.PackageMetaData'
+[2025.09.06-12.34.33:509][845]LogMetaData: Removing '/Game/Blueprints/UI/WBP_Cross.WBP_Cross:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/UI/WBP_Health.PackageMetaData'
+[2025.09.06-12.34.33:509][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.34.33:528][845]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/WBP_Cross] ([2] browsable assets)...
+[2025.09.06-12.34.33:528][845]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Cross]
+[2025.09.06-12.34.33:528][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Cross" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset" SILENT=true
+[2025.09.06-12.34.33:530][845]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Cross
+[2025.09.06-12.34.33:530][845]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Cross29BF2424471CDE71FB59579036963D8D.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset'
+[2025.09.06-12.34.33:541][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 30.868 ms (total: 307.260 ms)
+[2025.09.06-12.34.33:545][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.09.06-12.34.33:549][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.09.06-12.34.33:550][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.13ms
+[2025.09.06-12.34.33:569][845]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.34.33:569][845]LogContentValidation: Enabled validators:
+[2025.09.06-12.34.33:569][845]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.34.33:569][845]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.34.33:569][845]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.34.33:569][845]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Cross.WBP_Cross
+[2025.09.06-12.34.33:570][845]AssetCheck: /Game/Blueprints/UI/WBP_Cross Validating asset
+[2025.09.06-12.34.39:912][481]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.09.06-12.34.39:924][481]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.09.06-12.34.39:928][481]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.09.06-12.34.39:936][482]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.09.06-12.34.44:651][ 45]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Gameplay
+[2025.09.06-12.34.44:655][ 45]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.09.06-12.34.45:107][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.34.45:122][ 99]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.34.45:123][ 99]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay]
+[2025.09.06-12.34.45:123][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.34.45:123][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.34.45:124][ 99]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.34.45:124][ 99]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Gameplay00A648444371088A9F0012824F7169AF.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.34.45:134][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 26.675 ms (total: 333.935 ms)
+[2025.09.06-12.34.45:153][ 99]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.34.45:153][ 99]LogContentValidation: Enabled validators:
+[2025.09.06-12.34.45:154][ 99]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.34.45:154][ 99]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.34.45:154][ 99]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.34.45:154][ 99]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.34.45:154][ 99]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.34.56:409][317]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/WBP_Cross.WBP_Cross
+[2025.09.06-12.34.56:416][317]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.09.06-12.34.56:993][317]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.09.06-12.34.57:005][317]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2025.09.06-12.34.57:010][317]LogSlate: Took 0.005134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.09.06-12.35.07:631][481]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.35.07:647][481]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Cross] ([2] browsable assets)...
+[2025.09.06-12.35.07:648][481]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Cross.WBP_Cross]
+[2025.09.06-12.35.07:648][481]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Cross]
+[2025.09.06-12.35.07:648][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Cross" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset" SILENT=true
+[2025.09.06-12.35.07:650][481]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Cross
+[2025.09.06-12.35.07:650][481]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Cross913345034ED6AA9FB753358B4585C213.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset'
+[2025.09.06-12.35.07:658][481]LogFileHelpers: InternalPromptForCheckoutAndSave took 27.627 ms (total: 361.563 ms)
+[2025.09.06-12.35.07:677][481]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.35.07:677][481]LogContentValidation: Enabled validators:
+[2025.09.06-12.35.07:677][481]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.35.07:677][481]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.35.07:677][481]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.35.07:677][481]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Cross.WBP_Cross
+[2025.09.06-12.35.07:677][481]AssetCheck: /Game/Blueprints/UI/WBP_Cross Validating asset
+[2025.09.06-12.35.17:314][982]LogSlate: Window 'Color Picker' being destroyed
+[2025.09.06-12.35.26:105][650]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.06-12.35.28:422][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.35.28:439][861]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Cross] ([2] browsable assets)...
+[2025.09.06-12.35.28:440][861]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Cross.WBP_Cross]
+[2025.09.06-12.35.28:440][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Cross]
+[2025.09.06-12.35.28:440][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Cross" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset" SILENT=true
+[2025.09.06-12.35.28:443][861]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Cross
+[2025.09.06-12.35.28:443][861]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_CrossFB6FDECD4CC18B5FAFFCE296906FE2CF.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset'
+[2025.09.06-12.35.28:450][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 28.568 ms (total: 390.132 ms)
+[2025.09.06-12.35.28:468][861]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.35.28:468][861]LogContentValidation: Enabled validators:
+[2025.09.06-12.35.28:468][861]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.35.28:468][861]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.35.28:468][861]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.35.28:468][861]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Cross.WBP_Cross
+[2025.09.06-12.35.28:468][861]AssetCheck: /Game/Blueprints/UI/WBP_Cross Validating asset
+[2025.09.06-12.35.42:090][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.35.42:106][845]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Cross] ([2] browsable assets)...
+[2025.09.06-12.35.42:107][845]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Cross.WBP_Cross]
+[2025.09.06-12.35.42:107][845]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Cross]
+[2025.09.06-12.35.42:107][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Cross" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset" SILENT=true
+[2025.09.06-12.35.42:108][845]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Cross
+[2025.09.06-12.35.42:109][845]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_CrossF47BCD414083E29E2F9F858BE814AF2C.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset'
+[2025.09.06-12.35.42:116][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 26.454 ms (total: 416.587 ms)
+[2025.09.06-12.35.42:136][845]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.35.42:136][845]LogContentValidation: Enabled validators:
+[2025.09.06-12.35.42:136][845]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.35.42:136][845]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.35.42:136][845]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.35.42:136][845]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Cross.WBP_Cross
+[2025.09.06-12.35.42:136][845]AssetCheck: /Game/Blueprints/UI/WBP_Cross Validating asset
+[2025.09.06-12.35.43:479][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.09.06-12.35.43:601][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.09.06-12.35.44:116][  4]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.35.44:136][  4]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Cross] ([2] browsable assets)...
+[2025.09.06-12.35.44:137][  4]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Cross.WBP_Cross]
+[2025.09.06-12.35.44:137][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Cross]
+[2025.09.06-12.35.44:137][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Cross" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset" SILENT=true
+[2025.09.06-12.35.44:139][  4]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Cross
+[2025.09.06-12.35.44:139][  4]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Cross7274C04E475FE9B347165995F3FBDDD8.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset'
+[2025.09.06-12.35.44:146][  4]LogFileHelpers: InternalPromptForCheckoutAndSave took 29.950 ms (total: 446.538 ms)
+[2025.09.06-12.35.44:163][  4]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.35.44:165][  4]LogContentValidation: Enabled validators:
+[2025.09.06-12.35.44:165][  4]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.35.44:165][  4]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.35.44:165][  4]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.35.44:165][  4]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Cross.WBP_Cross
+[2025.09.06-12.35.44:165][  4]AssetCheck: /Game/Blueprints/UI/WBP_Cross Validating asset
+[2025.09.06-12.35.44:257][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.35.44:280][ 10]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/WBP_Cross] ([2] browsable assets)...
+[2025.09.06-12.35.44:280][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Cross]
+[2025.09.06-12.35.44:280][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Cross" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset" SILENT=true
+[2025.09.06-12.35.44:281][ 10]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Cross
+[2025.09.06-12.35.44:281][ 10]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_CrossEA20FF1B4BD80BF834390C8BD1A64518.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset'
+[2025.09.06-12.35.44:290][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave took 31.693 ms (total: 478.231 ms)
+[2025.09.06-12.35.44:304][ 10]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.35.44:304][ 10]LogContentValidation: Enabled validators:
+[2025.09.06-12.35.44:304][ 10]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.35.44:304][ 10]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.35.44:304][ 10]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.35.44:304][ 10]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Cross.WBP_Cross
+[2025.09.06-12.35.44:304][ 10]AssetCheck: /Game/Blueprints/UI/WBP_Cross Validating asset
+[2025.09.06-12.38.43:881][632]LogInterchangeEngine: [Pending] Importing
+[2025.09.06-12.38.43:941][632]LogInterchangeEngine: [Success] Import Done
+[2025.09.06-12.38.43:941][632]LogInterchangeEngine: [Pending] Importing
+[2025.09.06-12.38.43:997][632]LogInterchangeEngine: [Success] Import Done
+[2025.09.06-12.38.44:030][632]LogInterchangeEngine: [Success] Import Done
+[2025.09.06-12.38.44:038][632]LogInterchangeEngine: [Success] Import Done
+[2025.09.06-12.38.44:040][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.38.44:141][633]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Icons/health-normal] ([1] browsable assets)...
+[2025.09.06-12.38.44:177][633]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Icons/health-normal.health-normal]
+[2025.09.06-12.38.44:178][633]OBJ SavePackage: Finished generating thumbnails for package [/Game/Icons/health-normal]
+[2025.09.06-12.38.44:178][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/health-normal" FILE="../../../../../Git/PlatformerRPG/Content/Icons/health-normal.uasset" SILENT=true
+[2025.09.06-12.38.44:178][633]LogSavePackage: Moving output files for package: /Game/Icons/health-normal
+[2025.09.06-12.38.44:178][633]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/health-normalBA82D354481AB86A4AA79A99A8E2904C.tmp' to '../../../../../Git/PlatformerRPG/Content/Icons/health-normal.uasset'
+[2025.09.06-12.38.44:178][633]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Icons/health-None] ([1] browsable assets)...
+[2025.09.06-12.38.44:212][633]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Icons/health-None.health-None]
+[2025.09.06-12.38.44:212][633]OBJ SavePackage: Finished generating thumbnails for package [/Game/Icons/health-None]
+[2025.09.06-12.38.44:212][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/health-None" FILE="../../../../../Git/PlatformerRPG/Content/Icons/health-None.uasset" SILENT=true
+[2025.09.06-12.38.44:215][633]LogSavePackage: Moving output files for package: /Game/Icons/health-None
+[2025.09.06-12.38.44:215][633]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/health-NoneA8893CC544D67429745DEEA76A72B55C.tmp' to '../../../../../Git/PlatformerRPG/Content/Icons/health-None.uasset'
+[2025.09.06-12.38.44:284][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 243.542 ms (total: 721.774 ms)
+[2025.09.06-12.38.44:448][634]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.06-12.38.44:448][634]LogContentValidation: Enabled validators:
+[2025.09.06-12.38.44:448][634]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.38.44:448][634]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.38.44:448][634]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.38.44:448][634]LogContentValidation: Display: Validating asset /Game/Icons/health-normal.health-normal
+[2025.09.06-12.38.44:448][634]AssetCheck: /Game/Icons/health-normal Validating asset
+[2025.09.06-12.38.44:449][634]LogContentValidation: Display: Validating asset /Game/Icons/health-None.health-None
+[2025.09.06-12.38.44:449][634]AssetCheck: /Game/Icons/health-None Validating asset
+[2025.09.06-12.38.47:042][865]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.38.47:060][865]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/WBP_Cross] ([2] browsable assets)...
+[2025.09.06-12.38.47:060][865]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Cross]
+[2025.09.06-12.38.47:060][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Cross" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset" SILENT=true
+[2025.09.06-12.38.47:061][865]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Cross
+[2025.09.06-12.38.47:061][865]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_CrossAAF0FF41498DB043C14CCF9ED60059F1.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset'
+[2025.09.06-12.38.47:071][865]LogFileHelpers: InternalPromptForCheckoutAndSave took 29.153 ms (total: 750.927 ms)
+[2025.09.06-12.38.47:092][865]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.38.47:092][865]LogContentValidation: Enabled validators:
+[2025.09.06-12.38.47:092][865]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.38.47:092][865]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.38.47:092][865]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.38.47:092][865]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Cross.WBP_Cross
+[2025.09.06-12.38.47:092][865]AssetCheck: /Game/Blueprints/UI/WBP_Cross Validating asset
+[2025.09.06-12.38.47:285][886]AssetReimport: Reimported asset health-normal from D:/Git/PlatformerRPG/Content/Icons/health-normal.png.
+[2025.09.06-12.38.47:285][886]AssetReimport: Reimported asset health-None from D:/Git/PlatformerRPG/Content/Icons/health-normal.png.
+[2025.09.06-12.39.09:841][ 38]LogSlate: Window 'Color Picker' being destroyed
+[2025.09.06-12.39.21:643][ 26]LogSlate: Window 'Color Picker' being destroyed
+[2025.09.06-12.39.35:333][238]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.39.35:346][238]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Cross] ([2] browsable assets)...
+[2025.09.06-12.39.35:347][238]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Cross.WBP_Cross]
+[2025.09.06-12.39.35:347][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Cross]
+[2025.09.06-12.39.35:347][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Cross" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset" SILENT=true
+[2025.09.06-12.39.35:350][238]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Cross
+[2025.09.06-12.39.35:350][238]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_CrossB6F04E524939F9129323B3B27E02D4CD.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset'
+[2025.09.06-12.39.35:356][238]LogFileHelpers: InternalPromptForCheckoutAndSave took 24.156 ms (total: 775.083 ms)
+[2025.09.06-12.39.35:375][238]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.39.35:375][238]LogContentValidation: Enabled validators:
+[2025.09.06-12.39.35:375][238]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.39.35:375][238]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.39.35:375][238]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.39.35:375][238]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Cross.WBP_Cross
+[2025.09.06-12.39.35:375][238]AssetCheck: /Game/Blueprints/UI/WBP_Cross Validating asset
+[2025.09.06-12.39.36:269][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.09.06-12.39.36:409][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.09.06-12.39.36:556][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.09.06-12.39.38:008][544]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.39.38:026][544]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Cross] ([2] browsable assets)...
+[2025.09.06-12.39.38:027][544]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Cross.WBP_Cross]
+[2025.09.06-12.39.38:027][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Cross]
+[2025.09.06-12.39.38:027][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Cross" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset" SILENT=true
+[2025.09.06-12.39.38:030][544]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Cross
+[2025.09.06-12.39.38:030][544]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_CrossECA431BB4846F9008E454DB026960429.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset'
+[2025.09.06-12.39.38:037][544]LogFileHelpers: InternalPromptForCheckoutAndSave took 28.539 ms (total: 803.622 ms)
+[2025.09.06-12.39.38:051][544]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.39.38:051][544]LogContentValidation: Enabled validators:
+[2025.09.06-12.39.38:051][544]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.39.38:051][544]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.39.38:051][544]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.39.38:051][544]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Cross.WBP_Cross
+[2025.09.06-12.39.38:051][544]AssetCheck: /Game/Blueprints/UI/WBP_Cross Validating asset
+[2025.09.06-12.39.50:354][192]LogSlate: Window 'WBP_Cross' being destroyed
+[2025.09.06-12.40.44:901][460]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.09.06-12.41.10:292][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.09.06-12.41.10:293][618]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Blueprints/Levels/L_test' took 0.009
+[2025.09.06-12.41.10:294][618]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Cross] ([2] browsable assets)...
+[2025.09.06-12.41.10:296][618]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Cross.WBP_Cross]
+[2025.09.06-12.41.10:296][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Cross]
+[2025.09.06-12.41.10:296][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Cross" FILE="../../../../../Git/PlatformerRPG/Saved/Autosaves/Game/Blueprints/UI/WBP_Cross_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.09.06-12.41.10:298][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/UI/WBP_Cross_Auto1
+[2025.09.06-12.41.10:298][618]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Cross_Auto1C503C2C346A5C67C81BF7FBB51F379DC.tmp' to '../../../../../Git/PlatformerRPG/Saved/Autosaves/Game/Blueprints/UI/WBP_Cross_Auto1.uasset'
+[2025.09.06-12.41.10:298][618]LogFileHelpers: Auto-saving content packages took 0.006
+[2025.09.06-12.44.18:506][408]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.44.18:522][408]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Cross] ([2] browsable assets)...
+[2025.09.06-12.44.18:523][408]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Cross.WBP_Cross]
+[2025.09.06-12.44.18:523][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Cross]
+[2025.09.06-12.44.18:523][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Cross" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset" SILENT=true
+[2025.09.06-12.44.18:526][408]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Cross
+[2025.09.06-12.44.18:527][408]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_CrossCC60D5F847542314539675ACC59DB895.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset'
+[2025.09.06-12.44.18:533][408]LogFileHelpers: InternalPromptForCheckoutAndSave took 27.009 ms (total: 830.632 ms)
+[2025.09.06-12.44.18:551][408]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.44.18:551][408]LogContentValidation: Enabled validators:
+[2025.09.06-12.44.18:551][408]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.44.18:551][408]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.44.18:551][408]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.44.18:551][408]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Cross.WBP_Cross
+[2025.09.06-12.44.18:551][408]AssetCheck: /Game/Blueprints/UI/WBP_Cross Validating asset
+[2025.09.06-12.44.20:111][595]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.44.20:130][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/WBP_Cross] ([2] browsable assets)...
+[2025.09.06-12.44.20:130][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Cross]
+[2025.09.06-12.44.20:130][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Cross" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset" SILENT=true
+[2025.09.06-12.44.20:134][595]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Cross
+[2025.09.06-12.44.20:134][595]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Cross7BEF101C42D4F511BCF074901A924EC3.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset'
+[2025.09.06-12.44.20:142][595]LogFileHelpers: InternalPromptForCheckoutAndSave took 30.037 ms (total: 860.669 ms)
+[2025.09.06-12.44.20:159][595]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.44.20:159][595]LogContentValidation: Enabled validators:
+[2025.09.06-12.44.20:159][595]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.44.20:159][595]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.44.20:159][595]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.44.20:159][595]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Cross.WBP_Cross
+[2025.09.06-12.44.20:160][595]AssetCheck: /Game/Blueprints/UI/WBP_Cross Validating asset
+[2025.09.06-12.44.20:973][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.09.06-12.44.21:563][759]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.44.21:578][759]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Cross] ([2] browsable assets)...
+[2025.09.06-12.44.21:579][759]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Cross.WBP_Cross]
+[2025.09.06-12.44.21:579][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Cross]
+[2025.09.06-12.44.21:579][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Cross" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset" SILENT=true
+[2025.09.06-12.44.21:581][759]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Cross
+[2025.09.06-12.44.21:581][759]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Cross74C0088941DAE985906D4395CCC2EFB7.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset'
+[2025.09.06-12.44.21:587][759]LogFileHelpers: InternalPromptForCheckoutAndSave took 23.982 ms (total: 884.652 ms)
+[2025.09.06-12.44.21:601][759]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.44.21:601][759]LogContentValidation: Enabled validators:
+[2025.09.06-12.44.21:601][759]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.44.21:601][759]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.44.21:601][759]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.44.21:601][759]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Cross.WBP_Cross
+[2025.09.06-12.44.21:601][759]AssetCheck: /Game/Blueprints/UI/WBP_Cross Validating asset
+[2025.09.06-12.44.41:525][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.44.41:538][725]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/WBP_Cross] ([2] browsable assets)...
+[2025.09.06-12.44.41:538][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Cross]
+[2025.09.06-12.44.41:538][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Cross" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset" SILENT=true
+[2025.09.06-12.44.41:540][725]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Cross
+[2025.09.06-12.44.41:540][725]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Cross1B6C2C584E0C20EF28B0F38051B200F4.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset'
+[2025.09.06-12.44.41:546][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 21.578 ms (total: 906.231 ms)
+[2025.09.06-12.44.41:570][725]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.44.41:570][725]LogContentValidation: Enabled validators:
+[2025.09.06-12.44.41:570][725]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.44.41:570][725]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.44.41:570][725]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.44.41:570][725]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Cross.WBP_Cross
+[2025.09.06-12.44.41:571][725]AssetCheck: /Game/Blueprints/UI/WBP_Cross Validating asset
+[2025.09.06-12.44.43:017][890]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.45.17:383][766]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.45.17:396][766]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.45.17:397][766]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay]
+[2025.09.06-12.45.17:397][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.45.17:397][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.45.17:398][766]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.45.17:400][766]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Gameplay9FE199DD48714492E43D96AD0C0CE02B.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.45.17:405][766]LogFileHelpers: InternalPromptForCheckoutAndSave took 22.291 ms (total: 928.522 ms)
+[2025.09.06-12.45.17:425][766]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.45.17:425][766]LogContentValidation: Enabled validators:
+[2025.09.06-12.45.17:425][766]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.45.17:425][766]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.45.17:425][766]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.45.17:425][766]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.45.17:425][766]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.45.25:914][192]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.45.25:931][192]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.45.25:932][192]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay]
+[2025.09.06-12.45.25:932][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.45.25:932][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.45.25:933][192]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.45.25:933][192]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Gameplay86C9EA9A43FE6C564111808C5093CBB3.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.45.25:941][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 26.890 ms (total: 955.412 ms)
+[2025.09.06-12.45.25:959][192]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.45.25:959][192]LogContentValidation: Enabled validators:
+[2025.09.06-12.45.25:959][192]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.45.25:959][192]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.45.25:959][192]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.45.25:959][192]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.45.25:959][192]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.45.34:126][739]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.45.34:149][739]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.45.34:150][739]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay]
+[2025.09.06-12.45.34:150][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.45.34:150][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.45.34:152][739]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.45.34:152][739]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Gameplay444BFA5643394330F58C7C8C5B8D0497.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.45.34:162][739]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.468 ms (total: 991.880 ms)
+[2025.09.06-12.45.34:177][739]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.45.34:177][739]LogContentValidation: Enabled validators:
+[2025.09.06-12.45.34:177][739]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.45.34:177][739]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.45.34:177][739]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.45.34:177][739]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.45.34:177][739]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.45.58:290][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.45.58:308][ 11]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.45.58:309][ 11]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay]
+[2025.09.06-12.45.58:309][ 11]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.45.58:309][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.45.58:313][ 11]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.45.58:313][ 11]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Gameplay33BAF633493BF6B8BB52E9B2A69E25CF.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.45.58:318][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave took 28.618 ms (total: 1.02 sec)
+[2025.09.06-12.45.58:334][ 11]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.45.58:334][ 11]LogContentValidation: Enabled validators:
+[2025.09.06-12.45.58:334][ 11]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.45.58:334][ 11]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.45.58:334][ 11]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.45.58:334][ 11]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.45.58:335][ 11]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.47.18:207][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.09.06-12.47.46:814][720]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2025.09.06-12.47.46:831][720]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.017 s
+[2025.09.06-12.47.46:831][720]LogOutputDevice: Error: === Handled ensure: ===
+[2025.09.06-12.47.46:831][720]LogOutputDevice: Error: 
+[2025.09.06-12.47.46:831][720]LogOutputDevice: Error: Ensure condition failed: !PersistentLayout->PrimaryArea.IsValid()  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Docking\TabManager.cpp] [Line: 932] 
+[2025.09.06-12.47.46:831][720]LogOutputDevice: Error: 
+[2025.09.06-12.47.46:831][720]LogOutputDevice: Error: Stack: 
+[2025.09.06-12.47.46:831][720]LogOutputDevice: Error: [Callstack] 0x00007ffee2c10f43 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.09.06-12.47.46:831][720]LogOutputDevice: Error: [Callstack] 0x00007ffee2c2cebf UnrealEditor-Slate.dll!UnknownFunction []
+[2025.09.06-12.47.46:831][720]LogOutputDevice: Error: [Callstack] 0x00007ffee2b97a4d UnrealEditor-Slate.dll!UnknownFunction []
+[2025.09.06-12.47.46:831][720]LogOutputDevice: Error: [Callstack] 0x00007ffef39fedcf UnrealEditor-Core.dll!UnknownFunction []
+[2025.09.06-12.47.46:831][720]LogOutputDevice: Error: [Callstack] 0x00007ffef3a258fd UnrealEditor-Core.dll!UnknownFunction []
+[2025.09.06-12.47.46:831][720]LogOutputDevice: Error: [Callstack] 0x00007ff6dc83d011 UnrealEditor.exe!UnknownFunction []
+[2025.09.06-12.47.46:831][720]LogOutputDevice: Error: [Callstack] 0x00007ff6dc85e33c UnrealEditor.exe!UnknownFunction []
+[2025.09.06-12.47.46:831][720]LogOutputDevice: Error: [Callstack] 0x00007ff6dc85e42a UnrealEditor.exe!UnknownFunction []
+[2025.09.06-12.47.46:831][720]LogOutputDevice: Error: [Callstack] 0x00007ff6dc8618a4 UnrealEditor.exe!UnknownFunction []
+[2025.09.06-12.47.46:831][720]LogOutputDevice: Error: [Callstack] 0x00007ff6dc8770c4 UnrealEditor.exe!UnknownFunction []
+[2025.09.06-12.47.46:831][720]LogOutputDevice: Error: [Callstack] 0x00007ff6dc87a37a UnrealEditor.exe!UnknownFunction []
+[2025.09.06-12.47.46:831][720]LogOutputDevice: Error: [Callstack] 0x00007fff7d8ee8d7 KERNEL32.DLL!UnknownFunction []
+[2025.09.06-12.47.46:831][720]LogOutputDevice: Error: [Callstack] 0x00007fff7e6dc34c ntdll.dll!UnknownFunction []
+[2025.09.06-12.47.46:831][720]LogOutputDevice: Error: 
+[2025.09.06-12.47.46:842][720]LogStats:                SubmitErrorReport -  0.000 s
+[2025.09.06-12.47.47:543][720]LogStats:                    SendNewReport -  0.701 s
+[2025.09.06-12.47.47:543][720]LogStats:             FDebug::EnsureFailed -  0.729 s
+[2025.09.06-12.47.52:732][292]LogSlate: Window 'Details' being destroyed
+[2025.09.06-12.47.53:142][341]Cmd: TRANSACTION UNDO
+[2025.09.06-12.47.53:142][341]LogEditorTransaction: Undo Rename Node
+[2025.09.06-12.47.57:587][841]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.47.57:607][841]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/WBP_Cross] ([2] browsable assets)...
+[2025.09.06-12.47.57:607][841]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Cross]
+[2025.09.06-12.47.57:607][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Cross" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset" SILENT=true
+[2025.09.06-12.47.57:609][841]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Cross
+[2025.09.06-12.47.57:609][841]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_CrossAA38808C4E6827941E885FB340F48E55.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Cross.uasset'
+[2025.09.06-12.47.57:617][841]LogFileHelpers: InternalPromptForCheckoutAndSave took 29.890 ms (total: 1.05 sec)
+[2025.09.06-12.47.57:636][841]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.47.57:636][841]LogContentValidation: Enabled validators:
+[2025.09.06-12.47.57:636][841]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.47.57:636][841]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.47.57:636][841]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.47.57:636][841]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Cross.WBP_Cross
+[2025.09.06-12.47.57:636][841]AssetCheck: /Game/Blueprints/UI/WBP_Cross Validating asset
+[2025.09.06-12.48.40:377][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.48.40:394][336]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.48.40:395][336]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay]
+[2025.09.06-12.48.40:395][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.48.40:395][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.48.40:398][336]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.48.40:398][336]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Gameplay68089792430F7660A0C32F9D7B614D0E.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.48.40:404][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 27.144 ms (total: 1.07 sec)
+[2025.09.06-12.48.40:424][336]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.48.40:424][336]LogContentValidation: Enabled validators:
+[2025.09.06-12.48.40:424][336]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.48.40:424][336]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.48.40:424][336]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.48.40:424][336]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.48.40:424][336]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.50.35:923][958]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.50.35:943][958]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.50.35:944][958]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay]
+[2025.09.06-12.50.35:944][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.50.35:944][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.50.35:948][958]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.50.35:948][958]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_GameplayEC9C65B5451FAAF68676B791B0290288.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.50.35:955][958]LogFileHelpers: InternalPromptForCheckoutAndSave took 32.745 ms (total: 1.11 sec)
+[2025.09.06-12.50.35:975][958]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.50.35:975][958]LogContentValidation: Enabled validators:
+[2025.09.06-12.50.35:975][958]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.50.35:975][958]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.50.35:975][958]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.50.35:975][958]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.50.35:975][958]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.51.25:018][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.51.25:039][535]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.51.25:041][535]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay]
+[2025.09.06-12.51.25:041][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.51.25:041][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.51.25:044][535]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.51.25:044][535]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Gameplay7AEFDF894FE3465F6120A1A1AC90A678.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.51.25:051][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 33.190 ms (total: 1.14 sec)
+[2025.09.06-12.51.25:069][535]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.51.25:069][535]LogContentValidation: Enabled validators:
+[2025.09.06-12.51.25:069][535]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.51.25:069][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.51.25:069][535]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.51.25:069][535]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.51.25:069][535]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.53.04:699][346]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.53.04:722][346]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.53.04:723][346]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay]
+[2025.09.06-12.53.04:723][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.53.04:723][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.53.04:727][346]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.53.04:727][346]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_GameplayD4290970465E09DE2373A6A7F12650E8.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.53.04:733][346]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.395 ms (total: 1.17 sec)
+[2025.09.06-12.53.04:752][346]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.53.04:752][346]LogContentValidation: Enabled validators:
+[2025.09.06-12.53.04:752][346]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.53.04:752][346]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.53.04:752][346]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.53.04:752][346]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.53.04:752][346]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.53.10:806][445]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.53.10:818][445]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.53.10:818][445]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.53.10:818][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.53.10:822][445]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.53.10:823][445]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Gameplay446BA0C4402AB713EFB59CAF06B1F69C.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.53.10:829][445]LogFileHelpers: InternalPromptForCheckoutAndSave took 23.344 ms (total: 1.20 sec)
+[2025.09.06-12.53.10:852][445]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.53.10:852][445]LogContentValidation: Enabled validators:
+[2025.09.06-12.53.10:852][445]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.53.10:852][445]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.53.10:852][445]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.53.10:852][445]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.53.10:854][445]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.54.00:641][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.54.00:655][ 62]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.54.00:656][ 62]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay]
+[2025.09.06-12.54.00:656][ 62]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.54.00:656][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.54.00:660][ 62]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.54.00:660][ 62]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Gameplay7E26D2274DF1618B1A6D99AA6D2FA30C.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.54.00:667][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave took 26.774 ms (total: 1.22 sec)
+[2025.09.06-12.54.00:684][ 62]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.54.00:684][ 62]LogContentValidation: Enabled validators:
+[2025.09.06-12.54.00:684][ 62]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.54.00:684][ 62]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.54.00:684][ 62]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.54.00:684][ 62]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.54.00:684][ 62]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.54.43:371][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.54.43:389][458]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.54.43:389][458]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.54.43:389][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.54.43:393][458]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.54.43:393][458]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_GameplayE319EF6346712168339A17BA44E3D59C.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.54.43:399][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 27.818 ms (total: 1.25 sec)
+[2025.09.06-12.54.43:417][458]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.54.43:417][458]LogContentValidation: Enabled validators:
+[2025.09.06-12.54.43:417][458]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.54.43:417][458]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.54.43:417][458]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.54.43:417][458]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.54.43:418][458]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.54.53:945][818]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.54.53:964][818]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.54.53:964][818]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.54.53:964][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.54.53:969][818]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.54.53:969][818]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Gameplay14C83F5940DB3631C0D4D2AA53A2DA2F.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.54.53:975][818]LogFileHelpers: InternalPromptForCheckoutAndSave took 30.204 ms (total: 1.28 sec)
+[2025.09.06-12.54.53:995][818]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.54.53:995][818]LogContentValidation: Enabled validators:
+[2025.09.06-12.54.53:995][818]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.54.53:995][818]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.54.53:995][818]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.54.53:995][818]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.54.53:995][818]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.55.18:875][824]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.55.18:896][824]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.55.18:898][824]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay]
+[2025.09.06-12.55.18:898][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.55.18:898][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.55.18:901][824]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.55.18:901][824]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Gameplay6C0CDCEA472A23DC9F1F4394F8317252.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.55.18:909][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 33.657 ms (total: 1.31 sec)
+[2025.09.06-12.55.18:926][824]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.55.18:926][824]LogContentValidation: Enabled validators:
+[2025.09.06-12.55.18:926][824]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.55.18:926][824]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.55.18:926][824]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.55.18:926][824]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.55.18:926][824]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.55.19:983][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.09.06-12.55.20:116][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.09.06-12.56.13:124][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.09.06-12.56.37:386][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.09.06-12.56.37:388][ 51]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Blueprints/Levels/L_test' took 0.010
+[2025.09.06-12.56.37:388][ 51]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.56.37:391][ 51]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay]
+[2025.09.06-12.56.37:391][ 51]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.56.37:391][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Saved/Autosaves/Game/Blueprints/UI/WBP_Gameplay_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.09.06-12.56.37:394][ 51]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/UI/WBP_Gameplay_Auto2
+[2025.09.06-12.56.37:394][ 51]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Gameplay_Auto24C3E671A4DE99EA05CC311852B2DD349.tmp' to '../../../../../Git/PlatformerRPG/Saved/Autosaves/Game/Blueprints/UI/WBP_Gameplay_Auto2.uasset'
+[2025.09.06-12.56.37:395][ 51]LogFileHelpers: Auto-saving content packages took 0.007
+[2025.09.06-12.58.21:384][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.58.21:403][846]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.58.21:404][846]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay]
+[2025.09.06-12.58.21:404][846]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.58.21:404][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.58.21:408][846]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.58.21:408][846]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Gameplay07A3F1984B88886B0CDA47AD0C76E108.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.58.21:415][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 31.855 ms (total: 1.35 sec)
+[2025.09.06-12.58.21:431][846]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.58.21:431][846]LogContentValidation: Enabled validators:
+[2025.09.06-12.58.21:431][846]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.58.21:431][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.58.21:431][846]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.58.21:431][846]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.58.21:431][846]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.58.23:476][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.09.06-12.58.29:558][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.09.06-12.58.36:968][653]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.58.36:984][653]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.58.36:985][653]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay]
+[2025.09.06-12.58.36:985][653]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.58.36:985][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.58.36:989][653]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.58.36:989][653]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Gameplay83D601AF40CB9A0706683C84C1AE5D52.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.58.36:996][653]LogFileHelpers: InternalPromptForCheckoutAndSave took 27.431 ms (total: 1.37 sec)
+[2025.09.06-12.58.37:013][653]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.58.37:013][653]LogContentValidation: Enabled validators:
+[2025.09.06-12.58.37:013][653]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.58.37:013][653]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.58.37:013][653]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.58.37:013][653]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.58.37:013][653]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.58.37:786][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.09.06-12.58.42:356][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.58.42:377][268]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.58.42:378][268]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay]
+[2025.09.06-12.58.42:378][268]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.58.42:378][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.58.42:381][268]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.58.42:381][268]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Gameplay5CBA270E4E67393725E13C85C06C01E5.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.58.42:388][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 31.816 ms (total: 1.41 sec)
+[2025.09.06-12.58.42:405][268]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.58.42:405][268]LogContentValidation: Enabled validators:
+[2025.09.06-12.58.42:405][268]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.58.42:405][268]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.58.42:405][268]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.58.42:405][268]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.58.42:405][268]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.58.42:517][281]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.58.42:531][281]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.58.42:531][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.58.42:531][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.58.42:534][281]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.58.42:534][281]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Gameplay0644CD23484EBE0A4B063C9986E3F19E.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.58.42:539][281]LogFileHelpers: InternalPromptForCheckoutAndSave took 22.282 ms (total: 1.43 sec)
+[2025.09.06-12.58.42:557][281]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.58.42:557][281]LogContentValidation: Enabled validators:
+[2025.09.06-12.58.42:557][281]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.58.42:557][281]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.58.42:557][281]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.58.42:557][281]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.58.42:557][281]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.58.42:899][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.09.06-12.58.48:409][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.58.48:422][960]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.58.48:424][960]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay]
+[2025.09.06-12.58.48:424][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.58.48:424][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.58.48:427][960]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.58.48:427][960]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Gameplay3AEC864540048D99F58710973FA127CB.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.58.48:436][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 26.779 ms (total: 1.45 sec)
+[2025.09.06-12.58.48:455][960]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.58.48:455][960]LogContentValidation: Enabled validators:
+[2025.09.06-12.58.48:455][960]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.58.48:455][960]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.58.48:455][960]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.58.48:455][960]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.58.48:455][960]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.58.49:144][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.09.06-12.58.54:777][688]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.58.54:795][688]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.58.54:796][688]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay]
+[2025.09.06-12.58.54:796][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.58.54:796][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.58.54:799][688]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.58.54:800][688]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Gameplay6C1E1B224F3BF5D6771817B81C55BEE0.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.58.54:808][688]LogFileHelpers: InternalPromptForCheckoutAndSave took 32.354 ms (total: 1.49 sec)
+[2025.09.06-12.58.54:827][688]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.58.54:827][688]LogContentValidation: Enabled validators:
+[2025.09.06-12.58.54:827][688]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.58.54:827][688]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.58.54:827][688]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.58.54:827][688]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.58.54:827][688]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.59.09:448][415]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.59.09:466][415]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.59.09:469][415]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay]
+[2025.09.06-12.59.09:469][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.59.09:469][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.59.09:472][415]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.59.09:472][415]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Gameplay9A4A00B3434804F5966A07A5CD1F3D0D.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.59.09:481][415]LogFileHelpers: InternalPromptForCheckoutAndSave took 33.188 ms (total: 1.52 sec)
+[2025.09.06-12.59.09:500][415]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.59.09:500][415]LogContentValidation: Enabled validators:
+[2025.09.06-12.59.09:500][415]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.59.09:500][415]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.59.09:500][415]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.59.09:500][415]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.59.09:500][415]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.59.10:910][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.09.06-12.59.17:298][329]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.59.17:314][329]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.59.17:315][329]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay]
+[2025.09.06-12.59.17:315][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.59.17:315][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.59.17:319][329]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.59.17:319][329]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Gameplay530CCE174D5C8BF42D1E7D86F65150CD.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.59.17:328][329]LogFileHelpers: InternalPromptForCheckoutAndSave took 29.345 ms (total: 1.55 sec)
+[2025.09.06-12.59.17:344][329]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.59.17:344][329]LogContentValidation: Enabled validators:
+[2025.09.06-12.59.17:344][329]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.59.17:344][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.59.17:344][329]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.59.17:344][329]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.59.17:344][329]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.59.23:069][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.09.06-12.59.23:488][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.09.06-12.59.23:687][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.09.06-12.59.28:121][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.59.28:144][559]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.59.28:148][559]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay]
+[2025.09.06-12.59.28:148][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.59.28:148][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.59.28:152][559]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.59.28:152][559]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Gameplay8109EBCC4D721992BF6755914ADCD1AF.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.59.28:159][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.917 ms (total: 1.59 sec)
+[2025.09.06-12.59.28:173][559]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.59.28:173][559]LogContentValidation: Enabled validators:
+[2025.09.06-12.59.28:173][559]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.59.28:173][559]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.59.28:173][559]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.59.28:173][559]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.59.28:173][559]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.59.30:815][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.59.30:836][875]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.59.30:837][875]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay]
+[2025.09.06-12.59.30:837][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.59.30:837][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.59.30:841][875]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.59.30:841][875]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Gameplay49349D8E499C682C69CC778A95207971.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.59.30:849][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 33.514 ms (total: 1.62 sec)
+[2025.09.06-12.59.30:864][875]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.59.30:864][875]LogContentValidation: Enabled validators:
+[2025.09.06-12.59.30:864][875]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.59.30:864][875]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.59.30:864][875]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.59.30:864][875]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.59.30:864][875]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.59.31:396][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.09.06-12.59.31:560][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.09.06-12.59.36:981][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.09.06-12.59.37:125][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.09.06-12.59.37:534][619]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.59.37:553][619]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.59.37:554][619]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay]
+[2025.09.06-12.59.37:554][619]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.59.37:554][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.59.37:558][619]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.59.37:558][619]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Gameplay58934DDE4DB97D6913C1A0AD70B9CBA8.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.59.37:564][619]LogFileHelpers: InternalPromptForCheckoutAndSave took 30.452 ms (total: 1.65 sec)
+[2025.09.06-12.59.37:581][619]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.59.37:581][619]LogContentValidation: Enabled validators:
+[2025.09.06-12.59.37:581][619]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.59.37:581][619]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.59.37:581][619]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.59.37:581][619]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.59.37:581][619]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.59.37:719][635]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.59.37:737][635]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.59.37:737][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.59.37:737][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.59.37:740][635]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.59.37:740][635]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Gameplay8BEBFFA24296079C95DEA0B2C1F0B6D1.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.59.37:746][635]LogFileHelpers: InternalPromptForCheckoutAndSave took 27.560 ms (total: 1.68 sec)
+[2025.09.06-12.59.37:770][635]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.59.37:770][635]LogContentValidation: Enabled validators:
+[2025.09.06-12.59.37:770][635]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.59.37:770][635]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.59.37:770][635]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.59.37:770][635]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.59.37:771][635]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.59.49:169][987]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-12.59.49:188][987]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Gameplay] ([2] browsable assets)...
+[2025.09.06-12.59.49:190][987]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay]
+[2025.09.06-12.59.49:190][987]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Gameplay]
+[2025.09.06-12.59.49:190][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_Gameplay" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset" SILENT=true
+[2025.09.06-12.59.49:195][987]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Gameplay
+[2025.09.06-12.59.49:195][987]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/WBP_Gameplay4CEBB74445916B9CCF3DE5816514CC9E.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/UI/WBP_Gameplay.uasset'
+[2025.09.06-12.59.49:203][987]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.531 ms (total: 1.71 sec)
+[2025.09.06-12.59.49:218][987]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-12.59.49:218][987]LogContentValidation: Enabled validators:
+[2025.09.06-12.59.49:218][987]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-12.59.49:218][987]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-12.59.49:218][987]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-12.59.49:218][987]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/WBP_Gameplay.WBP_Gameplay
+[2025.09.06-12.59.49:218][987]AssetCheck: /Game/Blueprints/UI/WBP_Gameplay Validating asset
+[2025.09.06-12.59.53:472][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.09.06-12.59.58:076][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.09.06-13.00.03:712][667]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-13.00.03:712][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.00.03:717][667]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-13.00.03:717][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.00.03:742][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.09.06-13.00.04:362][739]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-13.00.04:362][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.00.04:365][739]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-13.00.04:365][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.00.04:391][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.09.06-13.00.16:607][914]LogSlate: Window 'Check Out Assets' being destroyed
+[2025.09.06-13.00.16:612][914]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-13.00.16:629][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Levels/L_test" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.06-13.00.16:647][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.09.06-13.00.16:653][914]LogSavePackage: Moving output files for package: /Game/Blueprints/Levels/L_test
+[2025.09.06-13.00.16:653][914]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/L_test40C8A1944B8BF52E3AD49FBC6C352044.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap'
+[2025.09.06-13.00.16:658][914]LogFileHelpers: Saving map 'L_test' took 0.029
+[2025.09.06-13.00.16:665][914]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.740 ms (total: 1.77 sec)
+[2025.09.06-13.00.16:683][914]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-13.00.16:683][914]LogContentValidation: Enabled validators:
+[2025.09.06-13.00.16:683][914]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-13.00.16:683][914]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-13.00.16:683][914]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-13.00.16:683][914]LogContentValidation: Display: Validating asset /Game/Blueprints/Levels/L_test.L_test
+[2025.09.06-13.00.16:683][914]AssetCheck: /Game/Blueprints/Levels/L_test Validating asset
+[2025.09.06-13.00.16:694][914]LogAutomationController: Ignoring very large delta of 2.47 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.09.06-13.00.17:482][  5]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-13.00.17:495][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Levels/L_test" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.06-13.00.17:512][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.09.06-13.00.17:516][  5]LogSavePackage: Moving output files for package: /Game/Blueprints/Levels/L_test
+[2025.09.06-13.00.17:516][  5]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/L_test643E830142CB84664446E7A60DFBA170.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap'
+[2025.09.06-13.00.17:520][  5]LogFileHelpers: Saving map 'L_test' took 0.026
+[2025.09.06-13.00.17:527][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.354 ms (total: 1.81 sec)
+[2025.09.06-13.00.17:545][  5]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-13.00.17:545][  5]LogContentValidation: Enabled validators:
+[2025.09.06-13.00.17:545][  5]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-13.00.17:545][  5]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-13.00.17:545][  5]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-13.00.17:545][  5]LogContentValidation: Display: Validating asset /Game/Blueprints/Levels/L_test.L_test
+[2025.09.06-13.00.17:545][  5]AssetCheck: /Game/Blueprints/Levels/L_test Validating asset
+[2025.09.06-13.00.18:685][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-13.00.18:704][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Levels/L_test" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.06-13.00.18:719][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.09.06-13.00.18:724][141]LogSavePackage: Moving output files for package: /Game/Blueprints/Levels/L_test
+[2025.09.06-13.00.18:725][141]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/L_test0EA236BF4F6AB92E845E3B8AA6F8A3BC.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap'
+[2025.09.06-13.00.18:729][141]LogFileHelpers: Saving map 'L_test' took 0.025
+[2025.09.06-13.00.18:735][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.056 ms (total: 1.86 sec)
+[2025.09.06-13.00.18:753][141]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-13.00.18:753][141]LogContentValidation: Enabled validators:
+[2025.09.06-13.00.18:753][141]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-13.00.18:753][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-13.00.18:753][141]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-13.00.18:753][141]LogContentValidation: Display: Validating asset /Game/Blueprints/Levels/L_test.L_test
+[2025.09.06-13.00.18:753][141]AssetCheck: /Game/Blueprints/Levels/L_test Validating asset
+[2025.09.06-13.00.18:850][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-13.00.18:870][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Levels/L_test" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.06-13.00.18:887][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.09.06-13.00.18:892][152]LogSavePackage: Moving output files for package: /Game/Blueprints/Levels/L_test
+[2025.09.06-13.00.18:892][152]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/L_test5F527497429946DB853FF4AB7CA7DFD3.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap'
+[2025.09.06-13.00.18:896][152]LogFileHelpers: Saving map 'L_test' took 0.025
+[2025.09.06-13.00.18:902][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.309 ms (total: 1.91 sec)
+[2025.09.06-13.00.18:920][152]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-13.00.18:920][152]LogContentValidation: Enabled validators:
+[2025.09.06-13.00.18:920][152]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-13.00.18:920][152]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-13.00.18:920][152]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-13.00.18:920][152]LogContentValidation: Display: Validating asset /Game/Blueprints/Levels/L_test.L_test
+[2025.09.06-13.00.18:920][152]AssetCheck: /Game/Blueprints/Levels/L_test Validating asset
+[2025.09.06-13.00.25:389][916]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.06-13.00.25:399][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.06-13.00.25:403][916]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.09.06-13.00.25:403][916]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.09.06-13.00.25:403][916]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-13.00.25:405][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002219s)
+[2025.09.06-13.00.25:405][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/L_test.L_test to /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test (0.002251s)
+[2025.09.06-13.00.25:416][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.09.06-13.00.25:417][916]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.09.06-13.00.25:418][916]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2025.09.06-13.00.25:448][916]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.09.06-13.00.25:448][916]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-13.00.25:448][916]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-13.00.25:448][916]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-13.00.25:448][916]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-13.00.25:448][916]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-13.00.25:448][916]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-13.00.25:448][916]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-13.00.25:448][916]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-13.00.25:448][916]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-13.00.25:448][916]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-13.00.25:449][916]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-13.00.25:450][916]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-13.00.25:467][916]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G65B (NVIDIA High Definition Audio)
+[2025.09.06-13.00.25:467][916]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-13.00.25:467][916]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-13.00.25:467][916]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-13.00.25:467][916]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.09.06-13.00.25:467][916]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.09.06-13.00.25:468][916]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.09.06-13.00.25:468][916]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.09.06-13.00.25:468][916]LogInit: FAudioDevice initialized with ID 2.
+[2025.09.06-13.00.25:468][916]LogAudio: Display: Audio Device (ID: 2) registered with world 'L_test'.
+[2025.09.06-13.00.25:468][916]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.06-13.00.25:470][916]LogLoad: Game class is 'BP_BasicGM_C'
+[2025.09.06-13.00.25:472][916]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2025.09.06-15.00.25
+[2025.09.06-13.00.25:472][916]LogWorld: Bringing up level for play took: 0.001037
+[2025.09.06-13.00.25:474][916]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.09.06-13.00.25:533][916]PIE: Server logged in
+[2025.09.06-13.00.25:533][916]PIE: Play in editor total start time 0.14 seconds.
+[2025.09.06-13.00.36:967][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-13.00.36:967][278]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-13.00.36:967][278]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-13.00.36:967][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.00.36:967][278]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.09.06-13.00.36:967][278]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.09.06-13.00.36:978][278]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.06-13.00.36:978][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.00.36:978][278]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.06-13.00.36:978][278]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.06-13.00.36:978][278]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.09.06-13.00.36:979][278]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.09.06-13.00.36:981][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-13.00.36:984][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.09.06-13.00.37:069][279]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.09.06-13.00.40:907][736]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.06-13.00.40:916][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.06-13.00.40:942][736]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-13.00.40:943][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001301s)
+[2025.09.06-13.00.40:943][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/L_test.L_test to /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test (0.001327s)
+[2025.09.06-13.00.40:949][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.09.06-13.00.40:952][736]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.09.06-13.00.40:952][736]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2025.09.06-13.00.40:982][736]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.09.06-13.00.40:982][736]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-13.00.40:982][736]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-13.00.40:982][736]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-13.00.40:982][736]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-13.00.40:982][736]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-13.00.40:982][736]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-13.00.40:982][736]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-13.00.40:982][736]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-13.00.40:982][736]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-13.00.40:982][736]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-13.00.40:982][736]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-13.00.40:984][736]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-13.00.41:002][736]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G65B (NVIDIA High Definition Audio)
+[2025.09.06-13.00.41:002][736]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-13.00.41:002][736]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-13.00.41:002][736]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-13.00.41:002][736]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.09.06-13.00.41:002][736]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.09.06-13.00.41:003][736]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.09.06-13.00.41:003][736]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.09.06-13.00.41:003][736]LogInit: FAudioDevice initialized with ID 3.
+[2025.09.06-13.00.41:003][736]LogAudio: Display: Audio Device (ID: 3) registered with world 'L_test'.
+[2025.09.06-13.00.41:003][736]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.06-13.00.41:005][736]LogLoad: Game class is 'BP_BasicGM_C'
+[2025.09.06-13.00.41:006][736]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2025.09.06-15.00.41
+[2025.09.06-13.00.41:006][736]LogWorld: Bringing up level for play took: 0.000932
+[2025.09.06-13.00.41:007][736]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.09.06-13.00.41:040][736]PIE: Server logged in
+[2025.09.06-13.00.41:040][736]PIE: Play in editor total start time 0.129 seconds.
+[2025.09.06-13.00.41:416][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-13.00.41:416][775]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-13.00.41:416][775]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-13.00.41:416][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.00.41:416][775]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.09.06-13.00.41:416][775]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.09.06-13.00.41:433][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.06-13.00.41:433][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.00.41:433][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-13.00.41:433][775]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.06-13.00.41:433][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.09.06-13.00.41:434][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.09.06-13.00.41:438][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.09.06-13.00.41:522][776]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.09.06-13.00.45:449][211]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone
+[2025.09.06-13.00.51:610][693]LogSlate: Window 'Check Out Assets' being destroyed
+[2025.09.06-13.00.51:616][693]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-13.00.51:633][693]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enviromnent/BP_DamageZone] ([2] browsable assets)...
+[2025.09.06-13.00.51:633][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enviromnent/BP_DamageZone]
+[2025.09.06-13.00.51:633][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enviromnent/BP_DamageZone" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset" SILENT=true
+[2025.09.06-13.00.51:636][693]LogSavePackage: Moving output files for package: /Game/Blueprints/Enviromnent/BP_DamageZone
+[2025.09.06-13.00.51:636][693]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_DamageZone75E92D9D40C288A8D5C5E7B9480B3BB6.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset'
+[2025.09.06-13.00.51:642][693]LogFileHelpers: InternalPromptForCheckoutAndSave took 26.079 ms (total: 1.94 sec)
+[2025.09.06-13.00.51:662][693]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-13.00.51:662][693]LogContentValidation: Enabled validators:
+[2025.09.06-13.00.51:662][693]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-13.00.51:662][693]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-13.00.51:662][693]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-13.00.51:662][693]LogContentValidation: Display: Validating asset /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone
+[2025.09.06-13.00.51:662][693]AssetCheck: /Game/Blueprints/Enviromnent/BP_DamageZone Validating asset
+[2025.09.06-13.00.51:673][693]LogAutomationController: Ignoring very large delta of 2.09 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.09.06-13.00.54:530][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-13.00.54:546][ 32]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enviromnent/BP_DamageZone] ([2] browsable assets)...
+[2025.09.06-13.00.54:546][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enviromnent/BP_DamageZone]
+[2025.09.06-13.00.54:546][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enviromnent/BP_DamageZone" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset" SILENT=true
+[2025.09.06-13.00.54:551][ 32]LogSavePackage: Moving output files for package: /Game/Blueprints/Enviromnent/BP_DamageZone
+[2025.09.06-13.00.54:551][ 32]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_DamageZone9DA62C56480162E0A1AE1D910784C408.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Enviromnent/BP_DamageZone.uasset'
+[2025.09.06-13.00.54:557][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 26.565 ms (total: 1.96 sec)
+[2025.09.06-13.00.54:574][ 32]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-13.00.54:574][ 32]LogContentValidation: Enabled validators:
+[2025.09.06-13.00.54:574][ 32]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-13.00.54:574][ 32]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-13.00.54:574][ 32]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-13.00.54:574][ 32]LogContentValidation: Display: Validating asset /Game/Blueprints/Enviromnent/BP_DamageZone.BP_DamageZone
+[2025.09.06-13.00.54:574][ 32]AssetCheck: /Game/Blueprints/Enviromnent/BP_DamageZone Validating asset
+[2025.09.06-13.00.55:864][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.09.06-13.01.02:755][  1]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Master.BP_Master
+[2025.09.06-13.01.11:451][774]LogSlate: Window 'Check Out Assets' being destroyed
+[2025.09.06-13.01.11:459][774]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-13.01.11:472][774]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/BP_Master] ([2] browsable assets)...
+[2025.09.06-13.01.11:476][774]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Master.BP_Master]
+[2025.09.06-13.01.11:476][774]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Master]
+[2025.09.06-13.01.11:476][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_Master" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Pawns/BP_Master.uasset" SILENT=true
+[2025.09.06-13.01.11:491][774]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_Master
+[2025.09.06-13.01.11:491][774]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_Master7B520E0948357934F2477EBAA7B5D622.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Pawns/BP_Master.uasset'
+[2025.09.06-13.01.11:499][774]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.518 ms (total: 2.01 sec)
+[2025.09.06-13.01.11:515][774]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-13.01.11:515][774]LogContentValidation: Enabled validators:
+[2025.09.06-13.01.11:515][774]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-13.01.11:515][774]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-13.01.11:515][774]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-13.01.11:515][774]LogContentValidation: Display: Validating asset /Game/Blueprints/Pawns/BP_Master.BP_Master
+[2025.09.06-13.01.11:515][774]AssetCheck: /Game/Blueprints/Pawns/BP_Master Validating asset
+[2025.09.06-13.01.11:528][774]LogAutomationController: Ignoring very large delta of 2.06 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.09.06-13.01.12:225][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-13.01.12:244][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Master] ([2] browsable assets)...
+[2025.09.06-13.01.12:244][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Master]
+[2025.09.06-13.01.12:244][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_Master" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Pawns/BP_Master.uasset" SILENT=true
+[2025.09.06-13.01.12:260][855]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_Master
+[2025.09.06-13.01.12:260][855]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_Master0D667B8B4C7DE7AFF0F103BEC413142A.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Pawns/BP_Master.uasset'
+[2025.09.06-13.01.12:269][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.905 ms (total: 2.05 sec)
+[2025.09.06-13.01.12:290][855]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-13.01.12:290][855]LogContentValidation: Enabled validators:
+[2025.09.06-13.01.12:290][855]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-13.01.12:290][855]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-13.01.12:290][855]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-13.01.12:290][855]LogContentValidation: Display: Validating asset /Game/Blueprints/Pawns/BP_Master.BP_Master
+[2025.09.06-13.01.12:290][855]AssetCheck: /Game/Blueprints/Pawns/BP_Master Validating asset
+[2025.09.06-13.01.12:846][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-13.01.12:865][921]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Master] ([2] browsable assets)...
+[2025.09.06-13.01.12:865][921]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Master]
+[2025.09.06-13.01.12:865][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_Master" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Pawns/BP_Master.uasset" SILENT=true
+[2025.09.06-13.01.12:881][921]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_Master
+[2025.09.06-13.01.12:881][921]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_MasterDEA2F2A3443B4722E79DC19020CB1ABE.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Pawns/BP_Master.uasset'
+[2025.09.06-13.01.12:888][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.970 ms (total: 2.09 sec)
+[2025.09.06-13.01.12:905][921]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-13.01.12:905][921]LogContentValidation: Enabled validators:
+[2025.09.06-13.01.12:905][921]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-13.01.12:905][921]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-13.01.12:905][921]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-13.01.12:905][921]LogContentValidation: Display: Validating asset /Game/Blueprints/Pawns/BP_Master.BP_Master
+[2025.09.06-13.01.12:905][921]AssetCheck: /Game/Blueprints/Pawns/BP_Master Validating asset
+[2025.09.06-13.01.13:314][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.09.06-13.01.13:964][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-13.01.13:981][  9]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/BP_Master] ([2] browsable assets)...
+[2025.09.06-13.01.13:986][  9]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Master.BP_Master]
+[2025.09.06-13.01.13:986][  9]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Master]
+[2025.09.06-13.01.13:986][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_Master" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Pawns/BP_Master.uasset" SILENT=true
+[2025.09.06-13.01.14:001][  9]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_Master
+[2025.09.06-13.01.14:001][  9]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_Master054F247B4E12A7B4B9A476AAF4ED5E1A.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Pawns/BP_Master.uasset'
+[2025.09.06-13.01.14:009][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.180 ms (total: 2.13 sec)
+[2025.09.06-13.01.14:026][  9]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-13.01.14:026][  9]LogContentValidation: Enabled validators:
+[2025.09.06-13.01.14:026][  9]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-13.01.14:026][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-13.01.14:026][  9]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-13.01.14:026][  9]LogContentValidation: Display: Validating asset /Game/Blueprints/Pawns/BP_Master.BP_Master
+[2025.09.06-13.01.14:026][  9]AssetCheck: /Game/Blueprints/Pawns/BP_Master Validating asset
+[2025.09.06-13.01.14:131][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-13.01.14:149][ 21]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Master] ([2] browsable assets)...
+[2025.09.06-13.01.14:149][ 21]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Master]
+[2025.09.06-13.01.14:149][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_Master" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Pawns/BP_Master.uasset" SILENT=true
+[2025.09.06-13.01.14:165][ 21]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_Master
+[2025.09.06-13.01.14:165][ 21]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/BP_MasterECD2F01045C81E4CF0B5A3B9499900F4.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Pawns/BP_Master.uasset'
+[2025.09.06-13.01.14:171][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.876 ms (total: 2.17 sec)
+[2025.09.06-13.01.14:189][ 21]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-13.01.14:189][ 21]LogContentValidation: Enabled validators:
+[2025.09.06-13.01.14:189][ 21]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-13.01.14:189][ 21]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-13.01.14:189][ 21]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-13.01.14:189][ 21]LogContentValidation: Display: Validating asset /Game/Blueprints/Pawns/BP_Master.BP_Master
+[2025.09.06-13.01.14:189][ 21]AssetCheck: /Game/Blueprints/Pawns/BP_Master Validating asset
+[2025.09.06-13.01.15:124][132]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.06-13.01.15:133][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.06-13.01.15:133][132]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-13.01.15:135][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001331s)
+[2025.09.06-13.01.15:135][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/L_test.L_test to /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test (0.001354s)
+[2025.09.06-13.01.15:142][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.09.06-13.01.15:144][132]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.09.06-13.01.15:144][132]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2025.09.06-13.01.15:174][132]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.09.06-13.01.15:174][132]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-13.01.15:174][132]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-13.01.15:174][132]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-13.01.15:174][132]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-13.01.15:174][132]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-13.01.15:174][132]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-13.01.15:174][132]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-13.01.15:174][132]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-13.01.15:174][132]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-13.01.15:174][132]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-13.01.15:174][132]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-13.01.15:175][132]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-13.01.15:194][132]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G65B (NVIDIA High Definition Audio)
+[2025.09.06-13.01.15:194][132]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-13.01.15:194][132]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-13.01.15:194][132]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-13.01.15:194][132]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.09.06-13.01.15:194][132]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.09.06-13.01.15:194][132]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.09.06-13.01.15:194][132]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.09.06-13.01.15:194][132]LogInit: FAudioDevice initialized with ID 4.
+[2025.09.06-13.01.15:194][132]LogAudio: Display: Audio Device (ID: 4) registered with world 'L_test'.
+[2025.09.06-13.01.15:194][132]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.06-13.01.15:196][132]LogLoad: Game class is 'BP_BasicGM_C'
+[2025.09.06-13.01.15:198][132]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2025.09.06-15.01.15
+[2025.09.06-13.01.15:198][132]LogWorld: Bringing up level for play took: 0.001039
+[2025.09.06-13.01.15:199][132]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.09.06-13.01.15:230][132]PIE: Server logged in
+[2025.09.06-13.01.15:231][132]PIE: Play in editor total start time 0.104 seconds.
+[2025.09.06-13.01.18:230][490]LogBlueprintUserMessages: [BP_Master_C_0] 0.0
+[2025.09.06-13.01.18:714][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-13.01.18:714][545]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-13.01.18:714][545]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-13.01.18:714][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.01.18:714][545]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.09.06-13.01.18:714][545]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.09.06-13.01.18:719][545]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.06-13.01.18:721][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.01.18:729][545]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.06-13.01.18:729][545]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.06-13.01.18:729][545]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.09.06-13.01.18:730][545]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.09.06-13.01.18:733][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-13.01.18:734][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.09.06-13.01.18:802][546]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.09.06-13.01.25:838][357]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.06-13.01.25:847][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.06-13.01.25:872][357]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-13.01.25:873][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001475s)
+[2025.09.06-13.01.25:873][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/L_test.L_test to /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test (0.001506s)
+[2025.09.06-13.01.25:880][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.09.06-13.01.25:883][357]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.09.06-13.01.25:883][357]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2025.09.06-13.01.25:913][357]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.09.06-13.01.25:913][357]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-13.01.25:913][357]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-13.01.25:913][357]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-13.01.25:913][357]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-13.01.25:913][357]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-13.01.25:913][357]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-13.01.25:913][357]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-13.01.25:913][357]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-13.01.25:913][357]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-13.01.25:913][357]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-13.01.25:913][357]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-13.01.25:914][357]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-13.01.25:933][357]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G65B (NVIDIA High Definition Audio)
+[2025.09.06-13.01.25:933][357]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-13.01.25:933][357]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-13.01.25:933][357]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-13.01.25:934][357]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.09.06-13.01.25:934][357]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.09.06-13.01.25:935][357]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.09.06-13.01.25:935][357]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.09.06-13.01.25:935][357]LogInit: FAudioDevice initialized with ID 5.
+[2025.09.06-13.01.25:935][357]LogAudio: Display: Audio Device (ID: 5) registered with world 'L_test'.
+[2025.09.06-13.01.25:935][357]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.06-13.01.25:938][357]LogLoad: Game class is 'BP_BasicGM_C'
+[2025.09.06-13.01.25:939][357]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2025.09.06-15.01.25
+[2025.09.06-13.01.25:939][357]LogWorld: Bringing up level for play took: 0.001046
+[2025.09.06-13.01.25:940][357]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.09.06-13.01.25:971][357]PIE: Server logged in
+[2025.09.06-13.01.25:971][357]PIE: Play in editor total start time 0.13 seconds.
+[2025.09.06-13.01.28:704][683]LogBlueprintUserMessages: [BP_Master_C_0] 0.0
+[2025.09.06-13.01.30:614][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-13.01.30:614][909]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-13.01.30:614][909]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-13.01.30:615][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.01.30:615][909]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.09.06-13.01.30:615][909]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.09.06-13.01.30:617][909]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.06-13.01.30:619][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.01.30:626][909]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.06-13.01.30:626][909]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.06-13.01.30:626][909]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.09.06-13.01.30:628][909]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.09.06-13.01.30:629][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-13.01.30:631][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.09.06-13.01.30:699][910]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.09.06-13.01.31:282][977]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-13.01.31:300][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Levels/L_test" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.06-13.01.31:320][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.09.06-13.01.31:326][977]LogSavePackage: Moving output files for package: /Game/Blueprints/Levels/L_test
+[2025.09.06-13.01.31:326][977]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/L_testD90107C64839CEEE3F8F85A14781C20F.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap'
+[2025.09.06-13.01.31:331][977]LogFileHelpers: Saving map 'L_test' took 0.031
+[2025.09.06-13.01.31:337][977]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.270 ms (total: 2.23 sec)
+[2025.09.06-13.01.31:362][977]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-13.01.31:362][977]LogContentValidation: Enabled validators:
+[2025.09.06-13.01.31:362][977]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-13.01.31:362][977]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-13.01.31:362][977]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-13.01.31:362][977]LogContentValidation: Display: Validating asset /Game/Blueprints/Levels/L_test.L_test
+[2025.09.06-13.01.31:362][977]AssetCheck: /Game/Blueprints/Levels/L_test Validating asset
+[2025.09.06-13.01.31:881][ 38]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.06-13.01.31:891][ 38]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.06-13.01.31:912][ 38]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-13.01.31:913][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001301s)
+[2025.09.06-13.01.31:913][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/L_test.L_test to /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test (0.001325s)
+[2025.09.06-13.01.31:920][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.09.06-13.01.31:920][ 38]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.09.06-13.01.31:921][ 38]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2025.09.06-13.01.31:950][ 38]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.09.06-13.01.31:950][ 38]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-13.01.31:950][ 38]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-13.01.31:950][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-13.01.31:950][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-13.01.31:950][ 38]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-13.01.31:950][ 38]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-13.01.31:950][ 38]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-13.01.31:950][ 38]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-13.01.31:950][ 38]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-13.01.31:950][ 38]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-13.01.31:950][ 38]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-13.01.31:951][ 38]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-13.01.31:968][ 38]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G65B (NVIDIA High Definition Audio)
+[2025.09.06-13.01.31:969][ 38]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-13.01.31:969][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-13.01.31:969][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-13.01.31:969][ 38]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.09.06-13.01.31:969][ 38]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.09.06-13.01.31:970][ 38]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.09.06-13.01.31:970][ 38]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.09.06-13.01.31:970][ 38]LogInit: FAudioDevice initialized with ID 6.
+[2025.09.06-13.01.31:970][ 38]LogAudio: Display: Audio Device (ID: 6) registered with world 'L_test'.
+[2025.09.06-13.01.31:970][ 38]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.09.06-13.01.31:972][ 38]LogLoad: Game class is 'BP_BasicGM_C'
+[2025.09.06-13.01.31:973][ 38]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2025.09.06-15.01.31
+[2025.09.06-13.01.31:973][ 38]LogWorld: Bringing up level for play took: 0.000965
+[2025.09.06-13.01.31:975][ 38]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.09.06-13.01.32:004][ 38]PIE: Server logged in
+[2025.09.06-13.01.32:006][ 38]PIE: Play in editor total start time 0.121 seconds.
+[2025.09.06-13.01.48:354][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-13.01.48:354][994]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-13.01.48:355][994]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-13.01.48:355][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.01.48:355][994]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.09.06-13.01.48:355][994]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.09.06-13.01.48:358][994]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.06-13.01.48:360][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.01.48:367][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-13.01.48:367][994]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.09.06-13.01.48:367][994]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.09.06-13.01.48:368][994]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.09.06-13.01.48:372][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.09.06-13.01.48:439][995]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.09.06-13.01.52:794][478]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-13.01.52:811][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Levels/L_test" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.06-13.01.52:828][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.09.06-13.01.52:834][478]LogSavePackage: Moving output files for package: /Game/Blueprints/Levels/L_test
+[2025.09.06-13.01.52:834][478]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/L_testAAFF1E4A4FE8B7B5BB11399AB4B57104.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap'
+[2025.09.06-13.01.52:839][478]LogFileHelpers: Saving map 'L_test' took 0.028
+[2025.09.06-13.01.52:846][478]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.267 ms (total: 2.28 sec)
+[2025.09.06-13.01.52:866][478]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-13.01.52:866][478]LogContentValidation: Enabled validators:
+[2025.09.06-13.01.52:866][478]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-13.01.52:866][478]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-13.01.52:866][478]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-13.01.52:866][478]LogContentValidation: Display: Validating asset /Game/Blueprints/Levels/L_test.L_test
+[2025.09.06-13.01.52:867][478]AssetCheck: /Game/Blueprints/Levels/L_test Validating asset
+[2025.09.06-13.01.53:754][583]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.06-13.01.53:763][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.06-13.01.53:801][583]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-13.01.53:832][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001396s)
+[2025.09.06-13.01.53:832][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/L_test.L_test to /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test (0.001421s)
+[2025.09.06-13.01.53:833][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.09.06-13.01.53:834][583]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.09.06-13.01.53:834][583]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2025.09.06-13.01.53:863][583]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.09.06-13.01.53:863][583]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-13.01.53:863][583]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-13.01.53:863][583]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-13.01.53:863][583]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-13.01.53:863][583]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-13.01.53:863][583]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-13.01.53:863][583]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-13.01.53:863][583]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-13.01.53:863][583]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-13.01.53:863][583]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-13.01.53:863][583]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-13.01.53:865][583]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-13.01.53:882][583]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G65B (NVIDIA High Definition Audio)
+[2025.09.06-13.01.53:882][583]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-13.01.53:882][583]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-13.01.53:882][583]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-13.01.53:883][583]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.09.06-13.01.53:883][583]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.09.06-13.01.53:884][583]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.09.06-13.01.53:884][583]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.09.06-13.01.53:884][583]LogInit: FAudioDevice initialized with ID 7.
+[2025.09.06-13.01.53:884][583]LogAudio: Display: Audio Device (ID: 7) registered with world 'L_test'.
+[2025.09.06-13.01.53:884][583]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.06-13.01.53:886][583]LogLoad: Game class is 'BP_BasicGM_C'
+[2025.09.06-13.01.53:888][583]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2025.09.06-15.01.53
+[2025.09.06-13.01.53:888][583]LogWorld: Bringing up level for play took: 0.001002
+[2025.09.06-13.01.53:888][583]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.09.06-13.01.53:919][583]PIE: Server logged in
+[2025.09.06-13.01.53:921][583]PIE: Play in editor total start time 0.163 seconds.
+[2025.09.06-13.02.04:444][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-13.02.04:444][839]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-13.02.04:444][839]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-13.02.04:444][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.02.04:444][839]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.09.06-13.02.04:444][839]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.09.06-13.02.04:447][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.06-13.02.04:449][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.02.04:456][839]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.06-13.02.04:456][839]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.06-13.02.04:456][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.09.06-13.02.04:457][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.09.06-13.02.04:459][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-13.02.04:461][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.09.06-13.02.04:543][840]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.09.06-13.02.07:010][133]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.06-13.02.07:019][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.06-13.02.07:051][133]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-13.02.07:053][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001343s)
+[2025.09.06-13.02.07:053][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/L_test.L_test to /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test (0.001373s)
+[2025.09.06-13.02.07:059][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.09.06-13.02.07:061][133]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.09.06-13.02.07:062][133]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2025.09.06-13.02.07:089][133]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.09.06-13.02.07:091][133]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-13.02.07:091][133]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-13.02.07:091][133]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-13.02.07:091][133]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-13.02.07:091][133]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-13.02.07:091][133]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-13.02.07:091][133]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-13.02.07:091][133]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-13.02.07:091][133]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-13.02.07:091][133]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-13.02.07:091][133]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-13.02.07:092][133]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-13.02.07:108][133]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G65B (NVIDIA High Definition Audio)
+[2025.09.06-13.02.07:108][133]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-13.02.07:108][133]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-13.02.07:108][133]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-13.02.07:108][133]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.09.06-13.02.07:108][133]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.09.06-13.02.07:109][133]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.09.06-13.02.07:109][133]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.09.06-13.02.07:109][133]LogInit: FAudioDevice initialized with ID 8.
+[2025.09.06-13.02.07:109][133]LogAudio: Display: Audio Device (ID: 8) registered with world 'L_test'.
+[2025.09.06-13.02.07:109][133]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.09.06-13.02.07:113][133]LogLoad: Game class is 'BP_BasicGM_C'
+[2025.09.06-13.02.07:114][133]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2025.09.06-15.02.07
+[2025.09.06-13.02.07:114][133]LogWorld: Bringing up level for play took: 0.001069
+[2025.09.06-13.02.07:115][133]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.09.06-13.02.07:145][133]PIE: Server logged in
+[2025.09.06-13.02.07:146][133]PIE: Play in editor total start time 0.133 seconds.
+[2025.09.06-13.02.40:304][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-13.02.40:304][105]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-13.02.40:304][105]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-13.02.40:304][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.02.40:304][105]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.09.06-13.02.40:304][105]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.09.06-13.02.40:306][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.06-13.02.40:309][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.02.40:316][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-13.02.40:316][105]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.09.06-13.02.40:316][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.09.06-13.02.40:317][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.09.06-13.02.40:321][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.09.06-13.02.40:402][106]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.09.06-13.02.41:444][228]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.06-13.02.41:453][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.06-13.02.41:481][228]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-13.02.41:482][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001315s)
+[2025.09.06-13.02.41:482][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/L_test.L_test to /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test (0.001340s)
+[2025.09.06-13.02.41:489][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.09.06-13.02.41:491][228]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.09.06-13.02.41:491][228]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2025.09.06-13.02.41:520][228]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.09.06-13.02.41:520][228]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-13.02.41:520][228]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-13.02.41:520][228]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-13.02.41:520][228]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-13.02.41:520][228]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-13.02.41:520][228]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-13.02.41:520][228]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-13.02.41:520][228]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-13.02.41:520][228]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-13.02.41:520][228]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-13.02.41:520][228]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-13.02.41:522][228]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-13.02.41:539][228]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G65B (NVIDIA High Definition Audio)
+[2025.09.06-13.02.41:539][228]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-13.02.41:539][228]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-13.02.41:539][228]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-13.02.41:539][228]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.09.06-13.02.41:539][228]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.09.06-13.02.41:541][228]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.09.06-13.02.41:541][228]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.09.06-13.02.41:541][228]LogInit: FAudioDevice initialized with ID 9.
+[2025.09.06-13.02.41:541][228]LogAudio: Display: Audio Device (ID: 9) registered with world 'L_test'.
+[2025.09.06-13.02.41:541][228]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.09.06-13.02.41:544][228]LogLoad: Game class is 'BP_BasicGM_C'
+[2025.09.06-13.02.41:545][228]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2025.09.06-15.02.41
+[2025.09.06-13.02.41:545][228]LogWorld: Bringing up level for play took: 0.000833
+[2025.09.06-13.02.41:546][228]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.09.06-13.02.41:576][228]PIE: Server logged in
+[2025.09.06-13.02.41:577][228]PIE: Play in editor total start time 0.13 seconds.
+[2025.09.06-13.02.51:023][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-13.02.51:023][356]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-13.02.51:023][356]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-13.02.51:023][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.02.51:023][356]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.09.06-13.02.51:023][356]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.09.06-13.02.51:027][356]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.06-13.02.51:029][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.02.51:036][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-13.02.51:036][356]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.09.06-13.02.51:036][356]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.09.06-13.02.51:037][356]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.09.06-13.02.51:040][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.09.06-13.02.51:123][357]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.09.06-13.02.52:679][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-13.02.52:702][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Levels/L_test" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.06-13.02.52:719][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.09.06-13.02.52:724][538]LogSavePackage: Moving output files for package: /Game/Blueprints/Levels/L_test
+[2025.09.06-13.02.52:725][538]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/L_test03C68EFB4DE649E1E9F505A903F7B6F3.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap'
+[2025.09.06-13.02.52:729][538]LogFileHelpers: Saving map 'L_test' took 0.027
+[2025.09.06-13.02.52:735][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.616 ms (total: 2.34 sec)
+[2025.09.06-13.02.52:757][538]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-13.02.52:757][538]LogContentValidation: Enabled validators:
+[2025.09.06-13.02.52:757][538]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-13.02.52:757][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-13.02.52:757][538]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-13.02.52:757][538]LogContentValidation: Display: Validating asset /Game/Blueprints/Levels/L_test.L_test
+[2025.09.06-13.02.52:757][538]AssetCheck: /Game/Blueprints/Levels/L_test Validating asset
+[2025.09.06-13.03.00:703][429]Cmd: SELECT NONE
+[2025.09.06-13.03.02:566][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-13.03.02:587][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Levels/L_test" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.06-13.03.02:604][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.09.06-13.03.02:610][651]LogSavePackage: Moving output files for package: /Game/Blueprints/Levels/L_test
+[2025.09.06-13.03.02:610][651]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/L_test6026E19C440355ECEDFE1B8B81880990.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap'
+[2025.09.06-13.03.02:614][651]LogFileHelpers: Saving map 'L_test' took 0.028
+[2025.09.06-13.03.02:628][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.688 ms (total: 2.40 sec)
+[2025.09.06-13.03.02:644][651]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-13.03.02:644][651]LogContentValidation: Enabled validators:
+[2025.09.06-13.03.02:644][651]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-13.03.02:644][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-13.03.02:644][651]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-13.03.02:644][651]LogContentValidation: Display: Validating asset /Game/Blueprints/Levels/L_test.L_test
+[2025.09.06-13.03.02:644][651]AssetCheck: /Game/Blueprints/Levels/L_test Validating asset
+[2025.09.06-13.03.07:075][178]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-13.03.07:095][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Levels/L_test" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.06-13.03.07:111][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.09.06-13.03.07:116][178]LogSavePackage: Moving output files for package: /Game/Blueprints/Levels/L_test
+[2025.09.06-13.03.07:116][178]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/L_testAFCA3696498BB79A78D7349DB3E792A7.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap'
+[2025.09.06-13.03.07:121][178]LogFileHelpers: Saving map 'L_test' took 0.025
+[2025.09.06-13.03.07:128][178]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.527 ms (total: 2.45 sec)
+[2025.09.06-13.03.07:150][178]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-13.03.07:150][178]LogContentValidation: Enabled validators:
+[2025.09.06-13.03.07:150][178]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-13.03.07:150][178]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-13.03.07:150][178]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-13.03.07:150][178]LogContentValidation: Display: Validating asset /Game/Blueprints/Levels/L_test.L_test
+[2025.09.06-13.03.07:150][178]AssetCheck: /Game/Blueprints/Levels/L_test Validating asset
+[2025.09.06-13.03.08:407][327]Cmd: SELECT NONE
+[2025.09.06-13.03.12:763][836]Cmd: SELECT NONE
+[2025.09.06-13.03.13:236][886]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-13.03.13:250][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Levels/L_test" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.06-13.03.13:266][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.09.06-13.03.13:271][886]LogSavePackage: Moving output files for package: /Game/Blueprints/Levels/L_test
+[2025.09.06-13.03.13:271][886]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/L_testF3F349004E80C534F0C0318522D83ABA.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap'
+[2025.09.06-13.03.13:275][886]LogFileHelpers: Saving map 'L_test' took 0.025
+[2025.09.06-13.03.13:285][886]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.906 ms (total: 2.50 sec)
+[2025.09.06-13.03.13:304][886]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-13.03.13:304][886]LogContentValidation: Enabled validators:
+[2025.09.06-13.03.13:304][886]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-13.03.13:304][886]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-13.03.13:304][886]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-13.03.13:304][886]LogContentValidation: Display: Validating asset /Game/Blueprints/Levels/L_test.L_test
+[2025.09.06-13.03.13:304][886]AssetCheck: /Game/Blueprints/Levels/L_test Validating asset
+[2025.09.06-13.03.18:450][484]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.06-13.03.18:460][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.06-13.03.18:491][484]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-13.03.18:492][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001384s)
+[2025.09.06-13.03.18:492][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/L_test.L_test to /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test (0.001416s)
+[2025.09.06-13.03.18:499][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.09.06-13.03.18:499][484]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.09.06-13.03.18:500][484]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2025.09.06-13.03.18:530][484]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.09.06-13.03.18:530][484]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-13.03.18:530][484]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-13.03.18:530][484]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-13.03.18:530][484]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-13.03.18:530][484]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-13.03.18:530][484]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-13.03.18:530][484]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-13.03.18:530][484]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-13.03.18:530][484]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-13.03.18:530][484]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-13.03.18:530][484]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-13.03.18:532][484]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-13.03.18:547][484]LogAudioMixer: Display: Using Audio Hardware Device Odyssey G65B (NVIDIA High Definition Audio)
+[2025.09.06-13.03.18:547][484]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-13.03.18:547][484]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-13.03.18:547][484]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-13.03.18:549][484]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.09.06-13.03.18:549][484]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.09.06-13.03.18:550][484]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.09.06-13.03.18:550][484]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.09.06-13.03.18:550][484]LogInit: FAudioDevice initialized with ID 10.
+[2025.09.06-13.03.18:550][484]LogAudio: Display: Audio Device (ID: 10) registered with world 'L_test'.
+[2025.09.06-13.03.18:550][484]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.09.06-13.03.18:552][484]LogLoad: Game class is 'BP_BasicGM_C'
+[2025.09.06-13.03.18:553][484]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_L_test.L_test up for play (max tick rate 0) at 2025.09.06-15.03.18
+[2025.09.06-13.03.18:553][484]LogWorld: Bringing up level for play took: 0.000955
+[2025.09.06-13.03.18:555][484]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.09.06-13.03.18:601][484]PIE: Server logged in
+[2025.09.06-13.03.18:601][484]PIE: Play in editor total start time 0.147 seconds.
+[2025.09.06-13.03.23:546][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-13.03.23:546][ 70]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_L_test
+[2025.09.06-13.03.23:546][ 70]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-13.03.23:546][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.03.23:546][ 70]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.09.06-13.03.23:546][ 70]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.09.06-13.03.23:548][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.06-13.03.23:550][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.03.23:558][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-13.03.23:558][ 70]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.09.06-13.03.23:558][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.09.06-13.03.23:559][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.09.06-13.03.23:563][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.09.06-13.03.23:620][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.09.06-13.03.23:939][108]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-13.03.23:956][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Levels/L_test" FILE="../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.06-13.03.23:977][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.09.06-13.03.23:982][108]LogSavePackage: Moving output files for package: /Game/Blueprints/Levels/L_test
+[2025.09.06-13.03.23:982][108]LogSavePackage: Moving '../../../../../Git/PlatformerRPG/Saved/L_testFAAB504840522D381651AD83A4B26170.tmp' to '../../../../../Git/PlatformerRPG/Content/Blueprints/Levels/L_test.umap'
+[2025.09.06-13.03.23:988][108]LogFileHelpers: Saving map 'L_test' took 0.031
+[2025.09.06-13.03.24:000][108]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.238 ms (total: 2.56 sec)
+[2025.09.06-13.03.24:013][108]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-13.03.24:013][108]LogContentValidation: Enabled validators:
+[2025.09.06-13.03.24:013][108]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-13.03.24:013][108]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-13.03.24:013][108]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-13.03.24:013][108]LogContentValidation: Display: Validating asset /Game/Blueprints/Levels/L_test.L_test
+[2025.09.06-13.03.24:013][108]AssetCheck: /Game/Blueprints/Levels/L_test Validating asset
+[2025.09.06-13.03.24:493][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.09.06-13.03.24:503][164]LogStall: Shutdown...
+[2025.09.06-13.03.24:504][164]LogStall: Shutdown complete.
+[2025.09.06-13.03.24:551][164]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-13.03.24:551][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.03.24:612][164]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.06-13.03.24:612][164]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-13.03.24:612][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.03.24:657][164]LogSlate: Window 'PlatformerRPG - Unreal Editor' being destroyed
+[2025.09.06-13.03.24:657][164]LogWindowsTextInputMethodSystem: Activated input method: Slovak (Slovakia) - (Keyboard).
+[2025.09.06-13.03.24:794][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.09.06-13.03.24:813][164]Cmd: QUIT_EDITOR
+[2025.09.06-13.03.24:813][165]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.09.06-13.03.24:814][165]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.09.06-13.03.24:814][165]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.09.06-13.03.24:814][165]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.09.06-13.03.24:815][165]LogWorld: UWorld::CleanupWorld for L_test, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-13.03.24:815][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.03.24:815][165]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.09.06-13.03.24:815][165]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.09.06-13.03.24:820][165]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.09.06-13.03.24:824][165]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-13.03.24:824][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.03.24:827][165]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-13.03.24:827][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.03.24:829][165]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-13.03.24:829][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.03.24:831][165]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-13.03.24:831][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-13.03.25:026][165]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.09.06-13.03.25:030][165]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.09.06-13.03.25:030][165]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.09.06-13.03.25:030][165]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.09.06-13.03.25:771][165]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.09.06-13.03.25:771][165]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.09.06-13.03.25:771][165]LogAudio: Display: Audio Device unregistered from world 'L_test'.
+[2025.09.06-13.03.25:771][165]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.09.06-13.03.25:771][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.09.06-13.03.25:772][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.09.06-13.03.25:775][165]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.09.06-13.03.25:775][165]LogAudio: Display: Audio Device Manager Shutdown
+[2025.09.06-13.03.25:779][165]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.09.06-13.03.25:779][165]LogExit: Preparing to exit.
+[2025.09.06-13.03.25:824][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2025.09.06-13.03.25:828][165]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.06-13.03.25:828][165]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.06-13.03.25:828][165]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.06-13.03.25:828][165]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.06-13.03.25:828][165]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.06-13.03.25:828][165]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.06-13.03.25:828][165]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.06-13.03.25:828][165]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.06-13.03.25:828][165]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.06-13.03.25:828][165]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.06-13.03.25:828][165]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.06-13.03.25:828][165]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.06-13.03.25:828][165]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.06-13.03.25:828][165]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.06-13.03.25:828][165]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.06-13.03.25:828][165]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.06-13.03.25:828][165]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.06-13.03.25:828][165]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.06-13.03.25:828][165]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.06-13.03.25:828][165]LogPython: Display: Object '/Engine/PythonTypes.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.06-13.03.25:828][165]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.06-13.03.26:290][165]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.09.06-13.03.26:313][165]LogExit: Editor shut down
+[2025.09.06-13.03.26:316][165]LogExit: Transaction tracking system shut down
+[2025.09.06-13.03.26:436][165]LogExit: Object subsystem successfully closed.
+[2025.09.06-13.03.26:533][165]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.09.06-13.03.27:137][165]MemoryProfiler: Shutdown
+[2025.09.06-13.03.27:137][165]NetworkingProfiler: Shutdown
+[2025.09.06-13.03.27:137][165]LoadingProfiler: Shutdown
+[2025.09.06-13.03.27:137][165]TimingProfiler: Shutdown
+[2025.09.06-13.03.27:178][165]LogOpenImageDenoise: OIDN shutting down
+[2025.09.06-13.03.27:418][165]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.09.06-13.03.27:445][165]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.09.06-13.03.27:445][165]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E9A8D82-49E0-0092-79A1-0B9D0FDEC6B6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=486ed1a44610b7d5561121982d65c2cb%7Ccca3862b2f8841c68a783ddafb6ae744%7C36b89d12-baeb-426b-9a80-5e6554637bbb&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.09.06-13.03.27:458][165]RenderDocPlugin: plugin has been unloaded.
+[2025.09.06-13.03.27:458][165]LogXGEController: Cleaning working directory: C:/Users/jozef/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.09.06-13.03.27:459][165]LogPakFile: Destroying PakPlatformFile
+[2025.09.06-13.03.27:546][165]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.09.06-13.03.27:572][165]LogExit: Exiting.
+[2025.09.06-13.03.27:580][165]Log file closed, 09/06/25 15:03:27
